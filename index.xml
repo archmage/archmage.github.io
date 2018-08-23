@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Arcane Endpoint</title>
+    <link>http://archmage.me/</link>
+    <description>Recent content in Home on Arcane Endpoint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    
+	<atom:link href="http://archmage.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Valentine Sisters</title>
+      <link>http://archmage.me/valentine-sisters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://archmage.me/valentine-sisters/</guid>
+      <description>In Malton, the city of endless hunger, war rages between the living and the dead. Safety is scarce, danger is abundant, and the comforts of civilisation are few and far between. Survivors stave off death by any means, while the dead surge across the suburbs in great hordes, sowing great chaos and destruction.
+THE VALENTINE SISTERS are a trio of talented, passionate and persistent survivors who reside in Malton. Doomed by a terrible curse that activates if they are ever near another sister, they live out separate lives in different suburbs, though each is only a phonecall away.</description>
+    </item>
+    
+  </channel>
+</rss>

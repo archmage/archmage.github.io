@@ -1,0 +1,27 @@
+baseurl = "http://archmage.me/"
+languageCode = "en-uk"
+title = "Arcane Endpoint"
+theme = "hugo-bingo"
+
+disableHugoGeneratorInject = true
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+hasCJKLanguage = true
+
+[permalinks]
+  post = "/posts/:slug/"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "valentine-sisters"
+    name = "UD_Chars"
+    url="valentine-sisters"
+    weight = 20
+
+[params]
+  email = "gitkraken@archmage.me"
