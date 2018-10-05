@@ -6,7 +6,7 @@ theme = "hugo-bingo"
 disableHugoGeneratorInject = true
 enableEmoji = true
 footnoteReturnLinkContents = "↩"
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 [permalinks]
   post = "/posts/:slug/"
@@ -18,10 +18,15 @@ hasCJKLanguage = true
     url = "/"
     weight = 10
   [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url= "posts"
+    weight = 20
+  [[menu.main]]
     identifier = "valentine-sisters"
     name = "UD_Chars"
     url="valentine-sisters"
-    weight = 20
+    weight = 30
 
 [params]
   email = "gitkraken@archmage.me"
