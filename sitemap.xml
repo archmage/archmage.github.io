@@ -24,6 +24,10 @@
   </url>
   
   <url>
+    <loc>http://archmage.me/stream-schedule/</loc>
+  </url>
+  
+  <url>
     <loc>http://archmage.me/tags/</loc>
     <priority>0</priority>
   </url>
