@@ -1,0 +1,36 @@
+baseurl = "/"
+languageCode = "zh-cmn-Hant"
+title = "Bingo"
+theme = "hugo-bingo"
+
+disableHugoGeneratorInject = true
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+hasCJKLanguage = true
+googleAnalytics = "UA-123-45"
+
+[permalinks]
+  post = "/posts/:slug/"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 20
+
+[params]
+  email = "username@domain"
+  github = "github_username"
+  linkedin = "linkedin_username"
+  medium = "medium_username"
+  twitter = "twitter_username"
+  facebook = "facebook_username"
+  instagram = "instagram_username"
