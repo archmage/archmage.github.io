@@ -27,6 +27,11 @@ hasCJKLanguage = false
     name = "UD_Chars"
     url="valentine-sisters"
     weight = 30
+  [[menu.main]]
+    identifier = "stream-schedule"
+    name = "Stream_Cal"
+    url="stream-schedule"
+    weight = 40
 
 [params]
   email = "gitkraken@archmage.me"

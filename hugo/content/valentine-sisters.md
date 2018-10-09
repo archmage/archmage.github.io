@@ -3,7 +3,7 @@ title: The Valentine Sisters
 type: not-post
 ---
 
-In Malton, the city of endless hunger, war rages between the living and the dead. Safety is scarce, danger is abundant, and the comforts of civilisation are few and far between. Survivors stave off death by any means, while the dead surge across the suburbs in great hordes, sowing great chaos and destruction.
+In [MALTON](http://urbandead.com/), the city of endless hunger, war rages between the living and the dead. Safety is scarce, danger is abundant, and the comforts of civilisation are few and far between. Survivors stave off death by any means, while the dead surge across the suburbs in great hordes, sowing great chaos and destruction.
 
 **THE VALENTINE SISTERS** are a trio of talented, passionate and persistent survivors who reside in Malton. Doomed by a terrible curse that activates if they are ever near another sister, they live out separate lives in different suburbs, though each is only a phonecall away.
 
