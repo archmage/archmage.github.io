@@ -6,4 +6,7 @@
     <link rel="stylesheet" href="{{ "css/normalize.min.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/solarized-light.min.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    {{ range .AlternativeOutputFormats -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
 </head>
