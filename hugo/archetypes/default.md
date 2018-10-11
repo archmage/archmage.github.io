@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+author: archmage
 date: {{ .Date }}
-draft: true
+slug: "{{ .Name }}"
+isCJKLanguage: false
 ---
-

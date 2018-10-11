@@ -1,7 +1,9 @@
 ---
 title: Malton Happenings, October 2018
 date: 2018-10-05
+author: archmage
 slug: malton-happenings-oct-2018
+tags: urbandead
 ---
 
 After a couple of months in the deadly streets of Malton, [**THE VALENTINE SISTERS**](/valentine-sisters/) have settled in, and managed to survive through their compassion, skills and resourcefulness.

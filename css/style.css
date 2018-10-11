@@ -192,13 +192,13 @@ ul {
 
 #single > h1,
 #single > h2 {
-    line-height: 1.5;
+    line-height: 1;
     text-align: center;
-    padding: 8px 24px;
+    padding: 8px 12px;
 }
 
 .post-content {
-    line-height: 2;
+    line-height: 1.8;
     margin: 8px 48px;
 }
 
@@ -248,4 +248,15 @@ table {
 table, th, td {
     padding: 3px 6px 3px 6px;
     border: 1px solid var(--primary-color);
+}
+
+.grid-container {
+    display: grid;
+}
+
+h6 {
+    color: grey;
+    font-size: 10pt;
+    font-style: italic;
+    text-align: center;
 }

@@ -1,6 +1,5 @@
 ---
 title: The Valentine Sisters
-type: not-post
 ---
 
 In [MALTON](http://urbandead.com/), the city of endless hunger, war rages between the living and the dead. Safety is scarce, danger is abundant, and the comforts of civilisation are few and far between. Survivors stave off death by any means, while the dead surge across the suburbs in great hordes, sowing great chaos and destruction.

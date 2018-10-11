@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Arcane Endpoint</title>
-    <link>http://archmage.me/</link>
-    <description>Recent content in Home on Arcane Endpoint</description>
+    <title>archmage on Arcane Endpoint</title>
+    <link>http://archmage.me/author/archmage/</link>
+    <description>Recent content in archmage on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 11 Oct 2018 14:24:32 +1100</lastBuildDate>
     
-	<atom:link href="http://archmage.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://archmage.me/author/archmage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,32 +30,6 @@ There are two factors of note that should make this a particularly interesting t
       <guid>http://archmage.me/posts/malton-happenings-oct-2018/</guid>
       <description>After a couple of months in the deadly streets of Malton, THE VALENTINE SISTERS have settled in, and managed to survive through their compassion, skills and resourcefulness.
    The sisters and their operation areas.   ASTRA spent several weeks around YAGOTON, and found the area to be too quiet for her tastes. Stocking up on medkits and tending to the few injured survivors she came across, she struggled to utilise her skills to the fullest&amp;hellip; until a phone call from NAOMI brought news!</description>
-    </item>
-    
-    <item>
-      <title>Stream Schedule</title>
-      <link>http://archmage.me/stream-schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archmage.me/stream-schedule/</guid>
-      <description>Monday
-- Tuesday
-LOVE LETTERS: 7-11pm Wednesday
-- Thursday
-CLEANUP CLASH: 7-11pm Friday
-- Saturday
-HELLA FRESH: Sat 9am-3pm Sunday
--      Oct 9: Starbound  Oct 11: NO STREAM  Oct 13: NO STREAM     Oct 16: Starbound  Oct 18: Gunmetal Arcadia?  Oct 20: ???     Oct 23: Starbound  Oct 25: Gunmetal Arcadia?  Oct 27: ?</description>
-    </item>
-    
-    <item>
-      <title>The Valentine Sisters</title>
-      <link>http://archmage.me/valentine-sisters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archmage.me/valentine-sisters/</guid>
-      <description>In MALTON, the city of endless hunger, war rages between the living and the dead. Safety is scarce, danger is abundant, and the comforts of civilisation are few and far between. Survivors stave off death by any means, while the dead surge across the suburbs in great hordes, sowing great chaos and destruction.
-THE VALENTINE SISTERS are a trio of talented, passionate and persistent survivors who reside in Malton. Doomed by a terrible curse that activates if they are ever near another sister, they live out separate lives in different suburbs, though each is only a phonecall away.</description>
     </item>
     
   </channel>

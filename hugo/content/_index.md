@@ -12,7 +12,7 @@ I'm a software engineer by day, and a gamer/musician by night. Within videogames
 
 I play a bunch of [Netrunner](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/), it's a rad game you should check out. I also play in a couple of tabletop campaigns (specifically a couple in D&D 5e, and one in Exalted 3e).
 
-Music-wise, I'm a Grade 8 Pianist (with the AMEB), and recently I started getting back into active practice. I listen to a bunch of electronic, chiptune, Soundclown and instrumental music.
+Music-wise, I'm a Grade 8 Pianist (with the AMEB). I listen to a bunch of electronic, synthwave, chiptune, Soundclown and instrumental music.
 
 <!-- Below is a list of links. Give them a look if you're into that kind of thing!
 

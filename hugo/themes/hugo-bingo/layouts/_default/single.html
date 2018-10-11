@@ -1,6 +1,9 @@
 {{ define "main" }}
 <main id="single">
     <h1>{{ .Title }}</h1>
+    {{ if eq .Section "posts" }}
+        <h6 style="margin-top: -20px">posted by <a href="/authors/archmage">archmage</a> at {{ .Render "time-element" }}</h6>
+    {{ end }}
     <section class="post-content">
         {{ .Content }}
     </section>

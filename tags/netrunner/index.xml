@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Arcane Endpoint</title>
-    <link>http://archmage.me/posts/</link>
-    <description>Recent content in Posts on Arcane Endpoint</description>
+    <title>netrunner on Arcane Endpoint</title>
+    <link>http://archmage.me/tags/netrunner/</link>
+    <description>Recent content in netrunner on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 11 Oct 2018 14:24:32 +1100</lastBuildDate>
     
-	<atom:link href="http://archmage.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://archmage.me/tags/netrunner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>It&amp;rsquo;s a very exciting time for Australian Netrunner players this week - the Netrunner Nationals tournament for 2018 in Australia is on this weekend in Melbourne!
 Around this time, folks are flying in from all corners of the country to participate in what will be the last ever official Australian Nationals tournament, scheduled on Saturday, 13 October.
 There are two factors of note that should make this a particularly interesting tournament.</description>
-    </item>
-    
-    <item>
-      <title>Malton Happenings, October 2018</title>
-      <link>http://archmage.me/posts/malton-happenings-oct-2018/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://archmage.me/posts/malton-happenings-oct-2018/</guid>
-      <description>After a couple of months in the deadly streets of Malton, THE VALENTINE SISTERS have settled in, and managed to survive through their compassion, skills and resourcefulness.
-   The sisters and their operation areas.   ASTRA spent several weeks around YAGOTON, and found the area to be too quiet for her tastes. Stocking up on medkits and tending to the few injured survivors she came across, she struggled to utilise her skills to the fullest&amp;hellip; until a phone call from NAOMI brought news!</description>
     </item>
     
   </channel>
