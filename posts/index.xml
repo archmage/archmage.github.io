@@ -6,10 +6,31 @@
     <description>Recent content in Posts on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 11 Oct 2018 14:24:32 +1100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://archmage.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chain-Culling - &#34;Horde Eviction Done Right&#34;</title>
+      <link>http://archmage.me/posts/chain-culling/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://archmage.me/posts/chain-culling/</guid>
+      <description>Hello, everyone! It&amp;rsquo;s Kara Valentine here, and I&amp;rsquo;ve got some wisdom to share! Today I&amp;rsquo;m going to be talking about a new strategy I discovered, for coordinating zombie eviction efforts. I&amp;rsquo;m sure it&amp;rsquo;ll be of use to plenty of the folks in Malton, so be sure to share the info around with your friends! After all, folks that survive together thrive together!
+-Kara Valentine
+Overview The basic idea behind chain-culling is to effectively combat large hordes camping in a single building.</description>
+    </item>
+    
+    <item>
+      <title>Malton Happenings, November 2018</title>
+      <link>http://archmage.me/posts/malton-happenings-2018-11/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://archmage.me/posts/malton-happenings-2018-11/</guid>
+      <description>THE VALENTINE SISTERS have been surviving as usual, though this month has been a bit harder than usual on the sisters. A number of peculiar happenings occured, too.
+ASTRA and THE LOCKETTSIDE VALKYRIES vailantly defended their home base, St Alexander&amp;rsquo;s Hospital in Lockettside, from the vile and coordinated attacks of THE DEAD, but after days of overwhelming pressure, both St Alexander&amp;rsquo;s and the adjacent Tompson Mall were broken into and ransacked.</description>
+    </item>
     
     <item>
       <title>Preparing for Netrunner Nationals Tournament Australia 2018</title>

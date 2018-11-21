@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://archmage.me/posts/chain-culling/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/posts/malton-happenings-2018-11/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://archmage.me/posts/preparing-for-netrunner-nationals-tournament-australia-2018/</loc>
     <lastmod>2018-10-11T14:24:32+11:00</lastmod>
   </url>
@@ -24,12 +34,12 @@
   
   <url>
     <loc>http://archmage.me/</loc>
-    <lastmod>2018-10-11T14:24:32+11:00</lastmod>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://archmage.me/posts/</loc>
-    <lastmod>2018-10-11T14:24:32+11:00</lastmod>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,7 +58,7 @@
   
   <url>
     <loc>http://archmage.me/author/archmage/</loc>
-    <lastmod>2018-10-11T14:24:32+11:00</lastmod>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,7 +76,7 @@
   
   <url>
     <loc>http://archmage.me/tags/urbandead/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

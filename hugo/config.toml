@@ -4,6 +4,7 @@ title = "Arcane Endpoint"
 theme = "hugo-bingo"
 
 disableHugoGeneratorInject = true
+disqusShortname = "archmage-me"
 enableEmoji = true
 footnoteReturnLinkContents = "↩"
 hasCJKLanguage = false
@@ -38,11 +39,6 @@ preserveTaxonomyNames = true
     name = "UD_Chars"
     url="valentine-sisters"
     weight = 4
-  [[menu.main]]
-    identifier = "stream-schedule"
-    name = "Stream_Cal"
-    url="stream-schedule"
-    weight = 5
 
 [params]
   email = "gitkraken@archmage.me"
