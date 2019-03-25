@@ -28,6 +28,4 @@ In addition to this large venture, Kara's research led to the discovery of [a po
 
 Disappointingly enough, [AN IMPOSTOR](http://urbandead.com/profile.cgi?id=2304856) was sighted on the streets of Malton. **THE VALENTINE SISTERS** are a trio, and this evident _fake_ is not one of them. 
 
-It is not hard to imagine how the real Kara would feel about this. 
-
-{{<figure src="/impostor.png" width="60%">}}
+It is not hard to imagine how the real Kara would feel about this.

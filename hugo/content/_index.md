@@ -2,34 +2,28 @@
 title: Home
 ---
 
-## Greetings!
+## Hey.
 
-Hello, everyone! I'm **Kara "Archmage" Valentine.** At long last I have summoned enough energy to transform this site into something beautiful. Something _functional._ Something properly befitting the amount of time I spend staring at screens.
+I'm **Kara "Archmage" Valentine.** When I'm not critically low on energy, I make things and play things. Unfortunately... the way things are going lately, I'm not really in a position to do much of that.
 
-Anyway, enough about that. You're here for me, no doubt!
+So... what else is there, about me? I'm an overthinker. I love sleep but don't get enough. I haven't routinely eaten three meals a day for quite some time now. I don't cook for the most part. I'm alone a lot of the time, and while I've adapted to being alone pretty well, it's still one hell of a thing to battle on a daily basis.
 
-I'm a software engineer by day, and a gamer/musician by night. Within videogames, the fun stuff I do is [speedrunning](https://www.speedrun.com/user/archmage), [completion](http://astats.astats.nl/astats/User_Games.php?PerfectOnly=1&Hidden=1&SteamID64=76561198015994278&DisplayType=2), [reviewing](https://store.steampowered.com/curator/31503871/) niche games and sometimes even [streaming](http://twitch.tv/arrchmage/).
+It was once famously said in my direction that "Kara has strong opinions." I can confirm that this is true.
 
-I play a bunch of [Netrunner](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/), it's a rad game you should check out. I also play in a couple of tabletop campaigns (specifically a couple in D&D 5e, and one in Exalted 3e).
+Some more positive things: I care very deeply and passionately about the things I like. I'm one of those people that wears their heart on their sleeve, and subsequently gets hurt easily... gah, you know what? It's way too fucking hard to convey "What Kara Actually Is" in this format, so fuck it.
 
-Music-wise, I'm a Grade 8 Pianist (with the AMEB). I listen to a bunch of electronic, synthwave, chiptune, Soundclown and instrumental music.
+I'm a lot of things. I'm a lot in general. Lately I've not been a lot, but if there's one thing I can leave you with, it's that I really _really_ do not see value in arbitrarily pinning my identity down in haphazard framing mechanisms. _Peak Kara_ is disavowing any sort of self-categorisation, while simultaneously picking several niche avenues of external categorisation and caring _very deeply_ about them. Like 2d platformer roguelikes. 
 
-<!-- Below is a list of links. Give them a look if you're into that kind of thing!
+I've probably not come anywhere near close to giving you an accurate mental representation of the being that is me, but I think this is close to the best I can do right now.
 
-*   Mastodon: [archmage@cybre.space](https://cybre.space/@archmage)
-*   GitHub: [Archmage](https://github.com/archmage)
-*   Discord: Archmage#6969
-*   Steam: [Archmage](http://steamcommunity.com/id/archmage84/)
-*   Twitch: [Arrchmage](http://twitch.tv/arrchmage/)
-*   SoundCloud: [Archmage](https://soundcloud.com/arrchmage)
-*   Speedrun.com: [archmage](https://www.speedrun.com/user/archmage)
-*   AStats Completion List: [Archmage](http://astats.astats.nl/astats/User_Games.php?PerfectOnly=1&Hidden=1&SteamID64=76561198015994278&DisplayType=2)
-*   The Wizard List (curated games list): [The Wizard List](https://store.steampowered.com/curator/31503871/)
-*   Warframe: Archmage (MR23) (on hiatus)
-*   LinkedIn: [Kara Valentine](https://www.linkedin.com/in/archmage/)
-*   Facebook: deactivated
-*   Twitter: deactivated -->
+Sigh.
 
-If you want to know more, I'm Archmage#6969 on Discord.
+Career-wise, I'm a software engineer. I'm a problem solver first and foremost, but my general work falls under the label of "software engineer", so that's what I call myself. Currently I'm employed full-time as an "Associate Programmer Analyst" for a consultancy company, and as a "Systems Analyst" for a client of that company.
 
-<!-- -Archmage -->
+My heart lies with dev work. Hacking together a little haven in the world of technology, pushing its bounds, ever watching for the moment when a crack forms in your carefully built wall, then patching it up before your world comes crashing down... it's one of the most exhilirating things I've ever experienced. Lots of tech pursuits bore me, or lack potential, but I feel that heartfelt dev is a truly valuable application of my energies.
+
+Lately I've not had any energy or career opportunities for dev work though. It's a shame, really.
+
+This is getting long and perhaps needlessly verbose, so I'm going to stop typing now.
+
+I'm Archmage#6969 on Discord if you need me.
