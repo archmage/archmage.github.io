@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
+    <lastBuildDate>Tue, 16 Apr 2019 18:56:41 +1000</lastBuildDate>
     
 	<atom:link href="http://archmage.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +14,18 @@
     <item>
       <title>life</title>
       <link>http://archmage.me/tags/life/</link>
-      <pubDate>Wed, 19 Dec 2018 12:11:20 +1100</pubDate>
+      <pubDate>Tue, 16 Apr 2019 18:56:41 +1000</pubDate>
       
       <guid>http://archmage.me/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urbandead</title>
+      <link>http://archmage.me/tags/urbandead/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://archmage.me/tags/urbandead/</guid>
       <description></description>
     </item>
     
@@ -34,15 +44,6 @@
       <pubDate>Thu, 11 Oct 2018 14:24:32 +1100</pubDate>
       
       <guid>http://archmage.me/tags/netrunner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>urbandead</title>
-      <link>http://archmage.me/tags/urbandead/</link>
-      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://archmage.me/tags/urbandead/</guid>
       <description></description>
     </item>
     
