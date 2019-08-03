@@ -8,9 +8,14 @@ fields:
 - type: text
   name: author
   label: author
+  config:
+    required: false
+  default: archmage
+  hidden: true
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: tags
   label: tags
@@ -20,3 +25,9 @@ fields:
 - type: boolean
   name: isCJKLanguage
   label: isCJKLanguage
+  default: false
+  hidden: true
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
