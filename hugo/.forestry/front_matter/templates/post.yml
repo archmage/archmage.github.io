@@ -19,6 +19,10 @@ fields:
 - type: text
   name: tags
   label: tags
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
 - type: text
   name: slug
   label: slug
@@ -27,7 +31,3 @@ fields:
   label: isCJKLanguage
   default: false
   hidden: true
-- name: tag
-  type: tag_list
-  default: []
-  label: tag
