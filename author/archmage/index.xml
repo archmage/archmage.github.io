@@ -6,10 +6,19 @@
     <description>Recent content in archmage on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:29:23 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 16:54:26 +0000</lastBuildDate>
     
 	<atom:link href="http://archmage.me/author/archmage/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>http://archmage.me/contact/</link>
+      <pubDate>Mon, 05 Aug 2019 16:54:26 +0000</pubDate>
+      
+      <guid>http://archmage.me/contact/</guid>
+      <description>foxyform (function(d, t){ var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = &amp;ldquo;http://www.foxyform.com/js.php?id=951804&amp;amp;sec_hash=f366efe3cb3&amp;amp;width=350px&amp;quot;; s.parentNode.insertBefore(g, s); }(document, &amp;ldquo;script&amp;rdquo;));  </description>
+    </item>
     
     <item>
       <title>Vulnerability</title>
