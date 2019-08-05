@@ -23,8 +23,7 @@ It's wild to me that it's December already; it feels like just a moment ago, I w
 
 They _do_ say a picture is worth a thousand words, so here's one from last week.
 
-<a href="/uploads/20181214_090227.jpg"> {{<figure src=/uploads_/20181214_090227.jpg" width="20%">}}_
-</a>
+<a href="/uploads/20181214_090227.jpg"> {{<figure src="/uploads_/20181214_090227.jpg" width="20%">}}</a>
 
 The day I took it, I felt _incredible_ - this wild, unfamiliar mix of self-assuredness, bravery and sexiness. For the first time since I came out, I felt deeply satisfied with who I am. This is, of course, a significant milestone in my developmental process as both an adult person and a woman; I've not felt anywhere near that level of confidence and comfort with myself before.
 
