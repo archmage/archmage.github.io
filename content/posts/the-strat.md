@@ -18,7 +18,7 @@ The basic idea behind chain-culling is to effectively combat large hordes campin
 
 The main problem with hordes in buildings is that you can't really fight them the same way you fight individuals (shoot, kill, dump) or outside hordes (barricade a lot). If you kill and dump one, others will still be there, and unless you manage to clear the whole thing, they'll just stand up and hop back inside, completely offsetting the effort you spent to kill and dump.
 
-Enter the chain-culling.
+Enter chain-culling.
 
 ## What you'll need
 
