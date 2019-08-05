@@ -16,20 +16,12 @@ fields:
   name: date
   label: date
   default: now
-- type: text
-  name: tags
-  label: tags
-- name: tag
+- name: tags
   type: tag_list
   default: []
-  label: tag
+  label: tags
 - type: text
   name: slug
   label: slug
-- type: boolean
-  name: isCJKLanguage
-  label: isCJKLanguage
-  default: false
-  hidden: true
 pages:
 - hugo/content/posts/vulnerability.md
