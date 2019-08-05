@@ -1,11 +1,12 @@
 ---
-title: "Imperfections"
+title: Imperfections
 author: archmage
-date: 2019-07-23T19:00:28+10:00
-slug: "imperfections"
+date: 2019-07-23T09:00:28.000+00:00
+slug: imperfections
 isCJKLanguage: false
----
+draft: true
 
+---
 Here we are again. Kara writes a blog post, usually long. People read it and think about it. Maybe something of value is added.
 
 Today's topic is _imperfection._ This one's been building for a while, and it'll likely be longer than most. Let's delve.
@@ -40,4 +41,4 @@ For something to be _deterministic,_ that means it needs to be consistent. Compu
 
 I'm sure I don't need to spell out what this has to do with imperfection. Any proximity to computers other than _really fucking far away_ will have you in contact with some "quirk" that a machine's produced for you, the user. Weird screen flickers? Mouse not working? Sudden freezes, crashes and restarts? This is _par for the course_ when it comes to computers. The _doubly_ sad bit is that everything that I make in my lifetime, that has _anything_ to do with computers, will suffer from exactly the same seemingly-causeless entropy manifestations.
 
-So why bother? Why make anything if everything's going to break? 
+So why bother? Why make anything if everything's going to break?
