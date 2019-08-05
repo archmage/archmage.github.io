@@ -9,18 +9,18 @@ preserveTaxonomyNames = true
 theme = "hugo-bingo"
 title = "Arcane Endpoint"
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
+identifier = "Tags"
+name = "tags"
 url = "tags"
 weight = 3
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
+identifier = "Posts"
+name = "posts"
 url = "posts"
 weight = 2
 [[menu.main]]
-identifier = "home"
-name = "Home"
+identifier = "Home"
+name = "home"
 url = "/"
 weight = 1
 [params]
