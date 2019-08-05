@@ -4,8 +4,8 @@ date: 2018-11-21
 author: archmage
 slug: malton-happenings-2018-11
 tags: urbandead
----
 
+---
 [**THE VALENTINE SISTERS**](/valentine-sisters/) have been surviving as usual, though this month has been a bit harder than usual on the sisters. A number of peculiar happenings occured, too.
 
 [ASTRA](http://www.urbandead.com/profile.cgi?id=2299496) and [THE LOCKETTSIDE VALKYRIES](http://wiki.urbandead.com/index.php/Lockettside_Valkyries) vailantly defended their home base, St Alexander's Hospital in Lockettside, from the vile and coordinated attacks of [THE DEAD](http://wiki.urbandead.com/index.php/The_Dead), but after days of overwhelming pressure, both St Alexander's and the adjacent Tompson Mall were broken into and ransacked. Since then, the Valkyries have been on the run, taking shelter in adjacent suburbs, and doing their best to stay alive, with mixed results.
@@ -16,7 +16,7 @@ tags: urbandead
 
 Surprisingly, it was **KARA VALENTINE** that was busiest out of all the sisters... or so it is heard. Apparently, during her research, she came across some ancient documents that detailed a means of connecting with Malton in a way unlike any that had been seen before. With this new information, she commenced work on a grand project, known only as **"ghostmind"** - a powerful tool that would aid her sisters in their survival endeavours.
 
-{{<figure src="/ghostmind-screenshot-2018-11.png" width="80%">}}
+{{<figure src="/uploads/ghostmind-screenshot-2018-11.png" width="80%">}}
 
 Such a tool would be incredibly beneficial in the right hands, and as such, it is alleged that this technology will be made available to a select few people during its initial deveopment, so as to gauge its suitability for use by Malton's citizens at large.
 
@@ -24,8 +24,8 @@ It is likely that information regarding this topic will be more thoroughly confi
 
 In addition to this large venture, Kara's research led to the discovery of [a powerful new strategy](/posts/chain-culling) for dealing with hordes in buildings.
 
----
+***
 
-Disappointingly enough, [AN IMPOSTOR](http://urbandead.com/profile.cgi?id=2304856) was sighted on the streets of Malton. **THE VALENTINE SISTERS** are a trio, and this evident _fake_ is not one of them. 
+Disappointingly enough, [AN IMPOSTOR](http://urbandead.com/profile.cgi?id=2304856) was sighted on the streets of Malton. **THE VALENTINE SISTERS** are a trio, and this evident _fake_ is not one of them.
 
 It is not hard to imagine how the real Kara would feel about this.
