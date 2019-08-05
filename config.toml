@@ -1,44 +1,33 @@
 baseurl = "http://archmage.me/"
-languageCode = "en-uk"
-title = "Arcane Endpoint"
-theme = "hugo-bingo"
-
 disableHugoGeneratorInject = true
 disqusShortname = "archmage-me"
 enableEmoji = true
 footnoteReturnLinkContents = "↩"
 hasCJKLanguage = false
+languageCode = "en-uk"
 preserveTaxonomyNames = true
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  author = "author"
-
-[permalinks]
-  post = "/posts/:slug/"
-
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url= "posts"
-    weight = 2
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url= "tags"
-    weight = 3
-  [[menu.main]]
-    identifier = "valentine-sisters"
-    name = "UD_Chars"
-    url="valentine-sisters"
-    weight = 4
-
+theme = "hugo-bingo"
+title = "Arcane Endpoint"
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "tags"
+weight = 3
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "posts"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
 [params]
-  email = "gitkraken@archmage.me"
+email = "gitkraken@archmage.me"
+[permalinks]
+post = "/posts/:slug/"
+[taxonomies]
+author = "author"
+category = "categories"
+tag = "tags"
