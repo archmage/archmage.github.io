@@ -31,3 +31,5 @@ fields:
   label: isCJKLanguage
   default: false
   hidden: true
+pages:
+- hugo/content/posts/vulnerability.md
