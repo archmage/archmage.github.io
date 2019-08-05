@@ -9,20 +9,20 @@ preserveTaxonomyNames = true
 theme = "hugo-bingo"
 title = "Arcane Endpoint"
 [[menu.main]]
-identifier = "Tags"
-name = "tags"
-url = "tags"
-weight = 3
+identifier = "Home"
+name = "home"
+url = "/"
+weight = 1
 [[menu.main]]
 identifier = "Posts"
 name = "posts"
 url = "posts"
 weight = 2
 [[menu.main]]
-identifier = "Home"
-name = "home"
-url = "/"
-weight = 1
+identifier = "Tags"
+name = "tags"
+url = "tags"
+weight = 3
 [params]
 email = "gitkraken@archmage.me"
 [permalinks]
