@@ -8,9 +8,12 @@ fields:
 - type: text
   name: author
   label: author
+  default: archmage
+  hidden: true
 - type: datetime
   name: date
   label: date
+  default: now
 - name: tags
   type: tag_list
   default: []
