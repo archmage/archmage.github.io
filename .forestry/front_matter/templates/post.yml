@@ -14,6 +14,11 @@ fields:
   name: date
   label: date
   default: now
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
 - name: tags
   type: tag_list
   default: []
