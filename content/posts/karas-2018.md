@@ -1,12 +1,12 @@
 ---
-title: "2018 - A Review"
+title: 2018 - A Review
 author: archmage
-date: 2018-12-19T12:11:20+11:00
+date: 2018-12-19T01:11:20.000+00:00
 tags: life
-slug: "2018-a-review"
+slug: 2018-a-review
 isCJKLanguage: false
----
 
+---
 Hello, everyone. Today I'm going to be writing something different. I've not posted anything particularly personal on this site, and given some recent ponderings of mine, I've decided it would be nice to rectify that.
 
 Today I'm going to talk about this year, 2018, and what's sort of happened to/with/about me. Buckle up, it's going to be a wild ride.
@@ -23,11 +23,10 @@ It's wild to me that it's December already; it feels like just a moment ago, I w
 
 They _do_ say a picture is worth a thousand words, so here's one from last week.
 
-<a href="/20181214_090227.jpg">
-{{<figure src="/20181214_090227.jpg" width="20%">}}
+<a href="/uploads/20181214_090227.jpg"> {{<figure src=/uploads_/20181214_090227.jpg" width="20%">}}_
 </a>
 
-The day I took it, I felt _incredible_ - this wild, unfamiliar mix of self-assuredness, bravery and sexiness. For the first time since I came out, I felt deeply satisfied with who I am. This is, of course, a significant milestone in my developmental process as both an adult person and a woman; I've not felt anywhere near that level of confidence and comfort with myself before. 
+The day I took it, I felt _incredible_ - this wild, unfamiliar mix of self-assuredness, bravery and sexiness. For the first time since I came out, I felt deeply satisfied with who I am. This is, of course, a significant milestone in my developmental process as both an adult person and a woman; I've not felt anywhere near that level of confidence and comfort with myself before.
 
 It was really cool!! It's been a tough battle for a number of reasons, but this one victory has reassured me that things will be even better going forward.
 
@@ -47,7 +46,7 @@ This was a huge thing for me. Gridstone was a wonderful place when I started wor
 
 There's a seriously impressive number of decent, hard-working and talented people at Gridstone. I met a wealth of ridiculously smart people there, and I'm really grateful that I was able to be around such folks for the time that I spent there. I will always value the good times and memorable experiences I shared with them. Thank you.
 
----
+***
 
 Looking forward now, Cognizant has been an eye-opening experience for me in a number of ways. I'm still relatively new to the ways of the corporate world, and there's been no better place to learn the ins and outs of it than at this company. I've been fortunate enough to have enough compassionate, sensitive and understanding people around me in my work here that my time spent has been enjoyable and productive. Despite its outwardly formal appearance, there's enough people that sort of _get_ what I stand for, and think similarly, that I believe in the creative future of this place, at the very least in the direction of those people.
 
@@ -59,7 +58,7 @@ My supervisor had mentioned that it would be worth considering to just take a fi
 
 Thanks, Mum <3
 
----
+***
 
 Over the last few months I've been finding my skills and motivation to be at an all-time high. I've been hitting unprecedented levels of code productivity, working on some personal projects in the meantime while I'm on the bench (without a client). I'll talk about them a little later :)
 
@@ -73,7 +72,7 @@ Then, at one point during my time at Cognizant, something really awful happened 
 
 After that, I was really careful with things. Eventually I deactivated my Facebook and left Twitter for Mastodon. Not long after, I realised that the benefits of existing on social media were vastly outweighed by the costs of "powering" my online existence, and totally withdrew from everything.
 
-{{<figure src="/inactive.png" caption="410 Gone" width="30%">}}
+{{<figure src="/uploads/inactive.png" caption="410 Gone" width="30%">}}
 
 I made the decision to instead focus on smaller-scale, one-to-one relationships with people via conversations on Discord and the like. Individual connections, forged from an active, specific interest in talking to one another, rather than the large-scale mass-marketed attention-driven systems of social media. It's been really nice. It's been refreshing, invigorating, and I feel like the people in my life now are those I can actually talk to.
 
@@ -86,11 +85,13 @@ This is a fun category to write about, because I get to talk about all the cool 
 A general note - I've been on a huge nostalgia trip lately, revisiting old games, movies and books that I used to love. At some point in this year, I felt a strong urge to go back and revisit my origins, and this has been a part of that.
 
 ### Netrunner
+
 I started playing Netrunner in March. It was incredible - the game rules, the local people are really good, and in the time I've spent playing, I've come a long way skills-wise. I placed third in one of the tournaments we played in (it was a minor tournament, nothing huge), which was very exciting for me. The game's got a bright future, despite losing official support from its creator, Fantasy Flight Games.
 
 However, it seems that I've burnt out on it. I went really hard at it for months and months, but now I've just been struggling to bring myself to be in the right headspace to play. It's a bit of a shame, but these things happen.
 
 ### Urban Dead
+
 I've been fairly into [UrbanDead](http://urbandead.com/) since around September or October. Having played it in the past, I knew the game pretty well, but I felt it'd be fun to delve into it again. I made three new characters (you can read about them [here](/valentine-sisters)) and I've been playing out [all sorts of fun activites](/tags/urbandead/) with them since then!
 
 There's a surprising number of active communities for the game, so I've been participating in a few of them. There's a lot of very passionate people in them, which is a real pleasure to see :)
@@ -98,13 +99,15 @@ There's a surprising number of active communities for the game, so I've been par
 The game's real old and the interface is kind of awful, so I started work on a fancy desktop client, but again, I'll talk about this later.
 
 ### Kingdom of Loathing
+
 After what has been several years-long breaks, I've started playing [Kingdom of Loathing](https://www.kingdomofloathing.com) again. It's a real good turn-based combat RPG, but the things that make it exciting are its handling of repeated playthroughs. You do a "run" of the game and get to make a single skill "permanent", meaning you keep it for all subsequent runs. The idea is that you keep doing runs and "perming" skills, making your future runs faster and more exciting, and it definitely works out in practice.
 
 I adore the game and have spent a silly amount of time on it over the years, but this time around I actually made some cool new friends! Since my last break pretty much everyone in my old clan vanished, so I joined a new clan called [Not Dead Yet](http://www.kol-notdeadyet.com/). I'm just consistently impressed by how welcoming, considerate and knowledgeable they are, and I'm delighted to be in their midst.
 
-<p class="aside">(Another aside - Ayyno, the admin of the NDY Discord, is a *massive* nerrrrrd :3)</p>
+<p class="aside">(Another aside - Ayyno, the admin of the NDY Discord, is a _massive_ nerrrrrd :3)</p>
 
 ### World of Warcraft
+
 Despite all of my previous reservations, and my best efforts to avoid it, I have _finally_ succumbed to the massive timesink that is WoW.
 
 It's a good game.
@@ -113,7 +116,7 @@ I've got two characters that I care about at the moment - a max-level Demon Hunt
 
 I've played around with a ton of add-ons, and even done some Lua scripting of all things! I'm very impressed with how easily you can modify the interface to suit your needs.
 
-{{<figure src="/monk buttons.png" caption="One set of action bars for Ellaina, my Monk." width="50%">}}
+{{<figure src="/uploads/monk buttons.png" caption="One set of action bars for Ellaina, my Monk." width="50%">}}
 
 I got hilariously lucky in finding a good guild in WoW, too - by chance I happened upon a member of _Equinox Rising_, who are a real chill group of lovely people that were exactly what I was looking for in a guild. Since joining them I've made a lot of friends and done a bunch of midrange endgame content (Normal raids, low Mythic+ dungeons) with solid success. I've been able to slot in as both a tank and a DPS player, and I've very much enjoyed my time playing with them.
 
@@ -131,9 +134,9 @@ I still play in an IRL campaign with some very nice people, and an online Exalte
 
 This year I was fortunate enough to come across a number of really cool webcomics!
 
- - [Band vs Band](http://bvbcomix.com/) - Maybe the most gay comic I've ever seen. I love it with all my heart.
- - [The Weave](https://weavecomic.com/) - a rad modern-day magic adventure; dangerous and enchanting
- - [Paranatural](http://www.paranatural.net/) - spooky, surreal monster hunting in a school setting
+* [Band vs Band](http://bvbcomix.com/) - Maybe the most gay comic I've ever seen. I love it with all my heart.
+* [The Weave](https://weavecomic.com/) - a rad modern-day magic adventure; dangerous and enchanting
+* [Paranatural](http://www.paranatural.net/) - spooky, surreal monster hunting in a school setting
 
 All of them are great and well worth your time.
 
@@ -141,21 +144,21 @@ All of them are great and well worth your time.
 
 I played a lot of cool videogames this year. I completed some games, I think? It's been a while since I've paid any attention at all to my Steam library. I streamed a bunch of stuff, too! Here's a list.
 
- - CrossCode - flawless
- - Heat Signature - got updated!!
- - The Talos Principle - was fine
- - Resident Evil 6 - played with a friend, was solid
- - Hollow Knight - rules, did a deathless run, will go back and 100% sometime
- - Ghost 1.0 - real good action sci-fi game
- - FATE - old-ass Diablo ARPG, very mediocre, I 100%ed it out of obligation
- - NieR: Automata - I did some speedrunning of this (this year???); I adore it
- - Into the Breach - real good, obviously
- - Darkest Dungeon - grindy af, but enjoyable
- - DELTARUNE - omfg, I want this to be made, completed and released, RIGHT NOW
- - Gunmetal Arcadia - at long last, [I finally completed it](https://clips.twitch.tv/EncouragingOriginalQuailMcaT)
- - Princess Remedy - kicked my ass, but I beat it 101% on the hardest difficulty
- - Card City Nights 2 - a chill, wonderful, heartfelt card game adventure
- - Orwell - an exceptional story of privacy and future concerns coupled with really solid character building
+* CrossCode - flawless
+* Heat Signature - got updated!!
+* The Talos Principle - was fine
+* Resident Evil 6 - played with a friend, was solid
+* Hollow Knight - rules, did a deathless run, will go back and 100% sometime
+* Ghost 1.0 - real good action sci-fi game
+* FATE - old-ass Diablo ARPG, very mediocre, I 100%ed it out of obligation
+* NieR: Automata - I did some speedrunning of this (this year???); I adore it
+* Into the Breach - real good, obviously
+* Darkest Dungeon - grindy af, but enjoyable
+* DELTARUNE - omfg, I want this to be made, completed and released, RIGHT NOW
+* Gunmetal Arcadia - at long last, [I finally completed it](https://clips.twitch.tv/EncouragingOriginalQuailMcaT)
+* Princess Remedy - kicked my ass, but I beat it 101% on the hardest difficulty
+* Card City Nights 2 - a chill, wonderful, heartfelt card game adventure
+* Orwell - an exceptional story of privacy and future concerns coupled with really solid character building
 
 Games are good!!! You should play them!
 
@@ -171,7 +174,7 @@ Dinosaurus is a sweet little Discord bot that does a bunch of neat Netrunner stu
 
 In terms of technical details, Dino is a Scala application that runs on an Amazon server somewhere in the cloud, and it can do Meetup API interactions, NetrunnerDB card lookups and a bunch of other neat things. I worked on it for about a month!
 
-{{<figure src="/dino demo.png" width="60%">}}
+{{<figure src="/uploads/dino demo.png" width="60%">}}
 
 Dino is my baby and I am very proud of it.
 
@@ -179,7 +182,7 @@ Dino is my baby and I am very proud of it.
 
 ghostmind is an UrbanDead desktop client, written in Scala, with a bunch of really clever features on the way. It has an in-client searchable map, a bunch of nice-looking interface elements, and eventually (once I spend like ten thousand years working on it some more) it's going to be a fully-fledged replacement for the web interface.
 
-{{<figure src="/ghostmind demo.png" width="60%">}}
+{{<figure src="/uploads/ghostmind demo.png" width="60%">}}
 
 I've got a Discord server that I'm using as a sort of development log. You can join it [here](https://discord.gg/c2TMShY), if it interests you!
 
@@ -194,8 +197,8 @@ In hindsight I've actually done a ton of really cool, really important stuff thi
 <div id="content"><h3>To all the wonderful folks that have helped keep Kara Valentine in the game:</h3>
 <p><strong>THANK YOU.</strong> I love you.</p></div>
 
-{{<figure src="/Snapchat-1052126561.jpg" width="30%">}}
+{{<figure src="/uploads/Snapchat-1052126561.jpg" width="30%">}}
 
 <div id="content"><p><strong>See you next year?</strong></p></div>
 
-{{<figure src="/kara with love.png" width="30%">}}
+{{<figure src="/uploads/kara with love.png" width="30%">}}
