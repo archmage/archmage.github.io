@@ -1,11 +1,13 @@
 ---
-title: "Void State"
+title: Void State
 author: archmage
-date: 2019-03-26T00:29:26+11:00
-slug: "void-state"
+date: 2019-03-25T13:29:26.000+00:00
+slug: void-state
 isCJKLanguage: false
----
+tags:
+- life
 
+---
 Hey. Today I'm gonna write about me, like last post. Unlike last post, things aren't great right now. It's 12:30am the night of a work day, so I'm going to write a bunch, push this to the repo then go the fuck to sleep.
 
 **Lately I've been doing pretty badly.** My mental state is shot. A combination of three factors has led to this state:

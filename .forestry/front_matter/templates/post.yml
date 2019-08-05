@@ -19,4 +19,5 @@ fields:
   default: []
   label: tags
 pages:
+- content/posts/void-state.md
 - content/posts/vulnerability.md
