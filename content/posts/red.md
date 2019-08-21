@@ -12,7 +12,7 @@ I recently replayed Transistor. I loved it the first time I played it, and 100%e
 
 It's also a beautiful piece of storytelling, and the whole reason I'm writing this is because I set my phone's wallpaper to a picture of Red, the story's protagonist.
 
-![](/uploads/Screenshot_20190822-030149_Niagara Launcher.jpg)
+{{<figure src="/uploads/Screenshot_20190822-030149_Niagara Launcher.jpg" width="50%">}}</a>
 
 She's a powerful individual, able to sway crowds with her stunning vocal work. She's also humble, emotional and above all, _herself._ Not a single person in Cloudbank could take that away from her, despite everything that happens in Transistor.
 
