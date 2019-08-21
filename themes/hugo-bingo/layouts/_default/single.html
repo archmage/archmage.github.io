@@ -7,8 +7,5 @@
     <section class="post-content">
         {{ .Content }}
     </section>
-    {{ if eq .Section "posts" }}
-        {{ template "_internal/disqus.html" . }}
-    {{ end }}
 </main>
 {{ end }}
