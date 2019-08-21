@@ -12,6 +12,8 @@ I recently replayed Transistor. I loved it the first time I played it, and 100%e
 
 It's also a beautiful piece of storytelling, and the whole reason I'm writing this is because I set my phone's wallpaper to a picture of Red, the story's protagonist.
 
+![](/uploads/Screenshot_20190822-030149_Niagara Launcher.jpg)
+
 She's a powerful individual, able to sway crowds with her stunning vocal work. She's also humble, emotional and above all, _herself._ Not a single person in Cloudbank could take that away from her, despite everything that happens in Transistor.
 
 I've set her as my phone wallpaper to remind myself that it is a very _very_ valuable thing to recognise your individuality, and never ever let it be compromised by others. To have a reason to live, to have _ikigai_ as shaped by your own beliefs, is a very powerful thing.
