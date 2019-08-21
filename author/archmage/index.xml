@@ -6,10 +6,20 @@
     <description>Recent content in archmage on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 05 Aug 2019 16:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:55:40 +0000</lastBuildDate>
     
 	<atom:link href="http://archmage.me/author/archmage/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Red</title>
+      <link>http://archmage.me/posts/red/</link>
+      <pubDate>Wed, 21 Aug 2019 00:55:40 +0000</pubDate>
+      
+      <guid>http://archmage.me/posts/red/</guid>
+      <description>This one&amp;rsquo;s going to be a brief one.
+I recently replayed Transistor. I loved it the first time I played it, and 100%ed it. Coming back to it felt different, but familiar. I&amp;rsquo;d come to it off the back of a lot of intense Diablo III gameplay, and it felt like a more refined, sensible way of doing much the same gameplay actions of destroying enemies in an isometric RPG context.</description>
+    </item>
     
     <item>
       <title>Contact</title>
