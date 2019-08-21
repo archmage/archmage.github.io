@@ -2,13 +2,11 @@
 title: Home
 
 ---
-## Hey.
+I'm Kara "Archmage" Valentine, and **I don't want to be alive.**
 
-I'm **Kara "Archmage" Valentine.**
+Unfortunately, I am, and so equally unfortunately, you're reading words I've written.
 
-~~a whole bunch of words that I wrote about myself at one point~~
-
-Remind me to write some more words here. Newer, nicer words, maybe, if I have them.
+Nothing of value is here, so linger at your own discretion. If you want you can [read some more of my words](/posts).
 
 I'm Archmage#6969 on [Discord](https://discordapp.com/) if you need me.
 
