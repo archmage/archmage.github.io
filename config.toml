@@ -2,7 +2,7 @@ baseURL = "http://archmage.me/"
 languageCode = "en-uk"
 title = "Arcane Endpoint"
 theme = "m10c"
-summaryLength = 10000
+Paginate = 100
 
 [params]
   author = "archmage"
@@ -25,3 +25,8 @@ summaryLength = 10000
     name = "mail"
     title = "contact"
     url = "/contact"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"

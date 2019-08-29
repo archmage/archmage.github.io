@@ -1,0 +1,18 @@
+<li class="micropost-list-item">
+  <div class="author-block">
+      <img class="avatar" src="/authors/archmage.png"/>
+      <h1>Kara Valentine</h1>
+  </div>
+  {{ .Content }}
+  {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .Date.Format "02 January 2006 - 15:04" }}
+  {{- with .Params.tags -}}
+  <div>
+    {{ partial "icon.html" (dict "ctx" $ "name" "tag") }}
+    {{ range . -}}
+      {{- with $.Site.GetPage (printf "/%s/%s" "tags" . ) -}}
+        <a class="tag" href="{{ .Permalink }}">{{ .Title }}</a>
+      {{- end -}}
+    {{- end -}}
+  </div>
+  {{- end -}}
+</li>

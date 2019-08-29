@@ -1,0 +1,45 @@
+.micropost-list {
+  padding-inline-start: 0px;
+
+  a {
+    color: $dark-color;
+  }
+}
+
+.micropost-list-item {
+  list-style: none;
+  padding: 1em;
+  border-radius: 30px 30px 0px 30px;
+  border: 0.3rem solid $lightest-color;
+  background: $light-color;
+  font-family: sans-serif;
+
+  .author-block {
+    display: flex;
+    align-items: center;
+    margin: -1.6em 0em 0em -1.6em;
+  }
+
+  .avatar {
+    margin: 0.3em;
+    max-width: 3rem;
+    max-height: 3rem;
+    border-radius: 100%;
+    border: 0.2rem solid $primary-color;
+  }
+
+  h1 {
+    font-family: "Tahoma", sans-serif;
+    font-weight: normal;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-size: 1.3em;
+  }
+
+  p {
+    font-family: "Verdana", sans-serif;
+    margin-block-start: 0.8em;
+    margin-block-end: 1.2em;
+    padding-left: 1em;
+  }
+}
