@@ -2,6 +2,7 @@ baseURL = "http://archmage.me/"
 languageCode = "en-uk"
 title = "Arcane Endpoint"
 theme = "m10c"
+summaryLength = 10000
 
 [params]
   author = "archmage"
@@ -17,10 +18,10 @@ theme = "m10c"
     name = "github"
     url = "https://github.com/archmage"
   [[params.social]]
-    name = "discord"
+    name = "message-circle"
+    title = "discord"
     url = "https://discord.gg/3aNgZ5h"
   [[params.social]]
     name = "mail"
+    title = "contact"
     url = "/contact"
-
-  
