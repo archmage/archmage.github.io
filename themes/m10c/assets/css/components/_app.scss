@@ -1,14 +1,32 @@
 .app-header {
-  padding: 2.5em;
-  background: $darkest-color;
+  padding: 1.5em;
+  background: $light-color;
   text-align: center;
+
+  h1 {
+    font-size: 26px;
+    margin: 0;
+  }
+
+  p a {
+    color: $dark-color;
+    font-weight: bold;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
 }
 
 .app-header-avatar {
-  max-width: 15rem;
-  max-height: 15rem;
+  max-width: 9rem;
+  max-height: 9rem;
   border-radius: 100%;
-  border: 0.5rem solid $primary-color;
+  border: 0.3rem outset $primary-color;
+
+  &:hover {
+    border: 0.4rem outset $primary-color;
+  }
 }
 
 .app-container {
@@ -17,10 +35,14 @@
 
 .app-header-social {
   font-size: 2em;
-  color: $lightest-color;
-
+  
   a {
+    color: $primary-color;
     margin: 0 0.1em;
+
+    &:hover {
+      color: $lightest-color;
+    }
   }
 }
 

@@ -8,22 +8,23 @@ html {
 
 body {
   margin: 0;
-  font-family: sans-serif;
-  background: $dark-color;
-  color: $light-color;
+  font-family: Garamond, serif;
+  background: $lightest-color;
+  color: $darkest-color;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $lightest-color;
+  color: $dark-color;
+  font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
 }
 
 a {
-  color: $primary-color;
+  color: $dark-color;
   transition: color 0.35s;
   text-decoration: none;
 
   &:hover {
-    color: $lightest-color;
+    color: $primary-color;
   }
 }
 
