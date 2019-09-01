@@ -5,7 +5,7 @@ date: 2019-09-01T14:44:53+10:00
 
 Today I came across a charming little roguelike on [r/roguelikedev](https://www.reddit.com/r/roguelikedev) called ["Lair of the Spider Queen"](https://www.reddit.com/r/roguelikedev/comments/cy0z59/lair_of_the_spider_queen/). It's a short, simple roguelike where you play as a spider queen and face a horde of goblins. 
 <!--more-->
-{{< figure src="https://i.imgur.com/WghqHx0.png" width="600px" >}}
+{{< figure src="https://i.imgur.com/WghqHx0.png" width="80%" >}}
 
 I've been meaning to try games from the subreddit for a while, but it took until today to find a game small and accessible enough.
 
