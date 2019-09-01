@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arcane Endpoint</title>
-    <link>http://archmage.me/</link>
-    <description>Recent content on Arcane Endpoint</description>
+    <title>Microposts on Arcane Endpoint</title>
+    <link>http://archmage.me/micropost/</link>
+    <description>Recent content in Microposts on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 01 Sep 2019 14:44:53 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 14:41:42 +1000</lastBuildDate>
     
-	<atom:link href="http://archmage.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://archmage.me/micropost/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Game Spotlight: Lair of the Spider Queen</title>
-      <link>http://archmage.me/post/lairofthespiderqueen/</link>
-      <pubDate>Sun, 01 Sep 2019 14:44:53 +1000</pubDate>
-      
-      <guid>http://archmage.me/post/lairofthespiderqueen/</guid>
-      <description>&lt;p&gt;Today I came across a charming little roguelike on &lt;a href=&#34;https://www.reddit.com/r/roguelikedev&#34;&gt;r/roguelikedev&lt;/a&gt; called &lt;a href=&#34;https://www.reddit.com/r/roguelikedev/comments/cy0z59/lair_of_the_spider_queen/&#34;&gt;&amp;ldquo;Lair of the Spider Queen&amp;rdquo;&lt;/a&gt;. It&amp;rsquo;s a short, simple roguelike where you play as a spider queen and face a horde of goblins.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title></title>
@@ -27,15 +18,6 @@
       
       <guid>http://archmage.me/micropost/20190901-144142/</guid>
       <description>Testing a link.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://archmage.me/post/helloworld/</link>
-      <pubDate>Sun, 01 Sep 2019 10:31:15 +1000</pubDate>
-      
-      <guid>http://archmage.me/post/helloworld/</guid>
-      <description>&lt;p&gt;Hello world! This is my first blog post on this fresh new &lt;em&gt;instance&lt;/em&gt; of my site, &lt;a href=&#34;http://archmage.me/&#34;&gt;Arcane Endpoint&lt;/a&gt;. I started writing this because I needed to see how blog posts look, but while I&amp;rsquo;m here, I may as well talk about some interesting things!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -110,27 +92,6 @@
       <guid>http://archmage.me/micropost/test-micropost/</guid>
       <description>Hello world. This is a micropost.
  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://archmage.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archmage.me/about/</guid>
-      <description>Hello. I&amp;rsquo;m Kara &amp;ldquo;Archmage&amp;rdquo; Valentine, and you&amp;rsquo;ve reached my website. Welcome!
-In my career I&amp;rsquo;m a software developer, primarily focused on Scala but quite comfortable with most languages. I like building well-designed, durable and legible systems. My main career goal is to make the world a better place through the power of technology.
-Outside my career I&amp;rsquo;m an avid lover and player of videogames. In the past I cared a lot about achievement-completionism - as of writing I&amp;rsquo;ve completed 87 games according to AStats.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://archmage.me/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://archmage.me/contact/</guid>
-      <description>If you&amp;rsquo;d like to get in touch, use the form below. All fields are required.
-  </description>
     </item>
     
   </channel>

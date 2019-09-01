@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arcane Endpoint</title>
+    <link>http://archmage.me/post/</link>
+    <description>Recent content in Posts on Arcane Endpoint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 01 Sep 2019 14:44:53 +1000</lastBuildDate>
+    
+	<atom:link href="http://archmage.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game Spotlight: Lair of the Spider Queen</title>
+      <link>http://archmage.me/post/lairofthespiderqueen/</link>
+      <pubDate>Sun, 01 Sep 2019 14:44:53 +1000</pubDate>
+      
+      <guid>http://archmage.me/post/lairofthespiderqueen/</guid>
+      <description>&lt;p&gt;Today I came across a charming little roguelike on &lt;a href=&#34;https://www.reddit.com/r/roguelikedev&#34;&gt;r/roguelikedev&lt;/a&gt; called &lt;a href=&#34;https://www.reddit.com/r/roguelikedev/comments/cy0z59/lair_of_the_spider_queen/&#34;&gt;&amp;ldquo;Lair of the Spider Queen&amp;rdquo;&lt;/a&gt;. It&amp;rsquo;s a short, simple roguelike where you play as a spider queen and face a horde of goblins.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://archmage.me/post/helloworld/</link>
+      <pubDate>Sun, 01 Sep 2019 10:31:15 +1000</pubDate>
+      
+      <guid>http://archmage.me/post/helloworld/</guid>
+      <description>&lt;p&gt;Hello world! This is my first blog post on this fresh new &lt;em&gt;instance&lt;/em&gt; of my site, &lt;a href=&#34;http://archmage.me/&#34;&gt;Arcane Endpoint&lt;/a&gt;. I started writing this because I needed to see how blog posts look, but while I&amp;rsquo;m here, I may as well talk about some interesting things!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,116 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://archmage.me/author/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://archmage.me/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
+    <lastmod>2019-09-01T14:44:53+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://archmage.me/posts/red/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
+    <loc>http://archmage.me/post/lairofthespiderqueen/</loc>
+    <lastmod>2019-09-01T14:44:53+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/post/</loc>
+    <lastmod>2019-09-01T14:44:53+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190901-144142/</loc>
+    <lastmod>2019-09-01T14:41:42+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/</loc>
+    <lastmod>2019-09-01T14:41:42+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/post/helloworld/</loc>
+    <lastmod>2019-09-01T10:31:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190901-082243/</loc>
+    <lastmod>2019-09-01T08:22:43+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190829-232341/</loc>
+    <lastmod>2019-08-29T23:23:41+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190829-232032/</loc>
+    <lastmod>2019-08-29T23:20:32+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190829-231934/</loc>
+    <lastmod>2019-08-29T23:19:34+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190829-205617/</loc>
+    <lastmod>2019-08-29T20:56:24+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20190829-205300/</loc>
+    <lastmod>2019-08-29T20:52:29+10:00</lastmod>
   </url>
   
   <url>
     <loc>http://archmage.me/tags/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
+    <lastmod>2019-08-29T20:52:29+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://archmage.me/author/archmage/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
+    <loc>http://archmage.me/tags/dabba/</loc>
+    <lastmod>2019-08-29T20:52:29+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://archmage.me/tags/life/</loc>
-    <lastmod>2019-08-21T00:55:40+00:00</lastmod>
+    <loc>http://archmage.me/tags/yabba/</loc>
+    <lastmod>2019-08-29T20:52:29+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://archmage.me/contact/</loc>
-    <lastmod>2019-08-05T16:54:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/vulnerability/</loc>
-    <lastmod>2019-08-06T00:29:23+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/urban-burial/</loc>
-    <lastmod>2019-04-26T10:31:38+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/tags/urbandead/</loc>
-    <lastmod>2019-04-26T10:31:38+10:00</lastmod>
+    <loc>http://archmage.me/tags/yeet/</loc>
+    <lastmod>2019-08-29T20:52:29+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://archmage.me/posts/hope-found/</loc>
-    <lastmod>2019-04-22T09:16:34+10:00</lastmod>
+    <loc>http://archmage.me/micropost/uhh/</loc>
+    <lastmod>2019-08-29T20:20:41+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://archmage.me/posts/message-received/</loc>
-    <lastmod>2019-04-16T18:56:41+10:00</lastmod>
+    <loc>http://archmage.me/micropost/test-micropost/</loc>
+    <lastmod>2019-08-28T12:57:41+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://archmage.me/posts/void-state/</loc>
-    <lastmod>2019-03-25T13:29:26+00:00</lastmod>
+    <loc>http://archmage.me/about/</loc>
   </url>
   
   <url>
-    <loc>http://archmage.me/posts/2018-a-review/</loc>
-    <lastmod>2018-12-19T01:11:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/chain-culling/</loc>
-    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/malton-happenings-2018-11/</loc>
-    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/preparing-for-netrunner-nationals-tournament-australia-2018/</loc>
-    <lastmod>2018-10-11T14:24:32+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/tags/melbourne/</loc>
-    <lastmod>2018-10-11T14:24:32+11:00</lastmod>
+    <loc>http://archmage.me/authors/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/tags/netrunner/</loc>
-    <lastmod>2018-10-11T14:24:32+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/posts/malton-happenings-oct-2018/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -121,7 +114,7 @@
   </url>
   
   <url>
-    <loc>http://archmage.me/valentine-sisters/</loc>
+    <loc>http://archmage.me/contact/</loc>
   </url>
   
 </urlset>
