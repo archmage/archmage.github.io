@@ -3,13 +3,14 @@
   margin-right: 0.2em;
   padding: 0 0.6em;
   font-size: 0.9em;
+  font-weight: normal;
   border-radius: 0.2em;
   white-space: nowrap;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.25);
   transition: color 0.35s, background 0.35s;
 
   &:hover {
     transition: color 0.25s, background 0.05s;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
   }
 }

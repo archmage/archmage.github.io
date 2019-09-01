@@ -9,6 +9,7 @@
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" />
     {{ $style := resources.Get "css/main.scss" | resources.ExecuteAsTemplate "css/main.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
     <link rel="stylesheet" href="{{ $style.Permalink }}" />
+    <link href="https://fonts.googleapis.com/css?family=Livvic|Noto+Serif|Roboto|Source+Sans+Pro&display=swap" rel="stylesheet">
 
     {{ template "_internal/google_analytics.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
@@ -19,7 +20,6 @@
     <header class="app-header">
       <a href="{{ .Site.BaseURL }}"><img class="app-header-avatar" src="{{ .Site.Params.avatar | default "avatar.png" | relURL }}" alt="{{ .Site.Params.author | default "John Doe" }}" /></a>
       <h1><a href="/">{{ .Site.Title }}</a></h1>
-      <!-- this specific stuff should probably be moved to my own site somehow -->
       <nav>
         <a href="/about">about</a> | 
         <a href="/post">posts</a> | 

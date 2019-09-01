@@ -1,0 +1,15 @@
+<li class="post-list-item">
+  <a href="{{ .Permalink }}">
+    <div style="display: flex; align-items: center;">
+      {{ partial "icon.html" (dict "ctx" $ "name" "book-open") }}
+      <h1 class="post-list-item-title">&nbsp;{{ .Title }}</h1>
+    </div>
+  </a>
+  {{ .Summary }}
+  <a class="post-list-meta" href="{{ .Permalink }}">
+    <span>
+      {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .ReadingTime }} min read -
+      {{ .PublishDate.Format "Jan 2, 2006" }}
+    </span>
+  </a>
+</li>
