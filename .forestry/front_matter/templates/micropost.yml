@@ -7,3 +7,5 @@ fields:
   label: date
   default: now
   hidden: true
+pages:
+- content/micropost/20190901-152716.md
