@@ -1,10 +1,11 @@
 ---
-title: "Hello World"
-date: 2019-09-01T10:31:15+10:00
----
+title: Hello World
+date: 2019-09-01T00:31:15.000+00:00
 
+---
 Hello world! This is my first blog post on this fresh new _instance_ of my site, [Arcane Endpoint](/). I started writing this because I needed to see how blog posts look, but while I'm here, I may as well talk about some interesting things!
 <!--more-->
+
 --
 
 First, I suppose an explanation of why I'm writing words here, rather than somewhere a bit more... normal. The long and short of it is _I'm tired of how social media sites feel._ They've grown to become this impersonal, yelling-match environment where people fight for attention, and that's _not_ the kind of place I want to give my energy to.
