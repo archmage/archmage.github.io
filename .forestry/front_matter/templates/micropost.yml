@@ -8,5 +8,6 @@ fields:
   default: now
   hidden: true
 pages:
+- content/micropost/20190901-233608.md
 - content/micropost/20190901-153453.md
 - content/micropost/20190901-152716.md
