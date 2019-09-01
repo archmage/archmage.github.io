@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <article>
+    <h1>Activity</h1>
+    <ul class="post-list">
+      {{ range $index, $element := .Paginator.Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </ul>
+    {{ partial "pagination.html" $ }}
+  </article>
+{{ end }}

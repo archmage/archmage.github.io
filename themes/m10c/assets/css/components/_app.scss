@@ -1,0 +1,62 @@
+.app-header {
+  padding: 1.5em;
+  background: $light-color;
+  text-align: center;
+
+  h1 {
+    font-size: 26px;
+    margin: 0;
+  }
+
+  p a {
+    color: $dark-color;
+    font-weight: bold;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+.app-header-avatar {
+  max-width: 9rem;
+  max-height: 9rem;
+  border-radius: 100%;
+  border: 0.3rem outset $primary-color;
+
+  &:hover {
+    border: 0.4rem outset $primary-color;
+  }
+}
+
+.app-container {
+  padding: 2.5rem;
+}
+
+.app-header-social {
+  font-size: 2em;
+  
+  a {
+    color: $primary-color;
+    margin: 0 0.1em;
+
+    &:hover {
+      color: $lightest-color;
+    }
+  }
+}
+
+@media (min-width: 940px) {
+  .app-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20rem;
+    min-height: 100vh;
+  }
+
+  .app-container {
+    max-width: 65rem;
+    margin-left: 20rem;
+  }
+}

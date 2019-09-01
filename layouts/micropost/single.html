@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article>
+  <a href="/micropost"><h1>back to feed</h1></a>
+  <ul class="micropost-list">
+    {{ .Render "li" }}
+  </ul>
+</article>
+{{ end }}

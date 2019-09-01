@@ -1,33 +1,32 @@
-baseurl = "http://archmage.me/"
-disableHugoGeneratorInject = true
-disqusShortname = "archmage-me"
-enableEmoji = true
-footnoteReturnLinkContents = "↩"
-hasCJKLanguage = false
+baseURL = "http://archmage.me/"
 languageCode = "en-uk"
-preserveTaxonomyNames = true
-theme = "hugo-bingo"
 title = "Arcane Endpoint"
-[[menu.main]]
-identifier = "Home"
-name = "home"
-url = "/"
-weight = 1
-[[menu.main]]
-identifier = "Posts"
-name = "posts"
-url = "posts"
-weight = 2
-[[menu.main]]
-identifier = "Tags"
-name = "tags"
-url = "tags"
-weight = 3
+theme = "m10c"
+Paginate = 100
+
 [params]
-email = "gitkraken@archmage.me"
-[permalinks]
-post = "/posts/:slug/"
+  author = "archmage"
+  description = "Hi. I'm Kara \"Archmage\" Valentine."
+  [params.style]
+   darkestColor = "#675a6e"
+   darkColor = "#70426e"
+   lightColor = "#e4d3ed"
+   lightestColor = "#f7f2fa"
+   primaryColor = "#c3a5d4"
+   
+	[[params.social]]
+    name = "github"
+    url = "https://github.com/archmage"
+  [[params.social]]
+    name = "message-circle"
+    title = "discord"
+    url = "https://discord.gg/3aNgZ5h"
+  [[params.social]]
+    name = "mail"
+    title = "contact"
+    url = "/contact"
+
 [taxonomies]
-author = "author"
-category = "categories"
-tag = "tags"
+  category = "categories"
+  tag = "tags"
+  author = "authors"
