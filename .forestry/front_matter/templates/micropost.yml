@@ -5,3 +5,5 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
+  hidden: true
