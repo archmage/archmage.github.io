@@ -24,7 +24,4 @@ fields:
   default: []
   label: tags
 pages:
-- content/posts/red.md
 - content/contact.md
-- content/posts/void-state.md
-- content/posts/vulnerability.md
