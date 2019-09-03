@@ -30,7 +30,7 @@
       <p>This is <a href="/">Arcane Endpoint</a>, my current refuge away from the rest of the world. Please enjoy your stay.</p>
       <div class="app-header-social">
         {{ range .Site.Params.social }}
-          <a target="_blank" href="{{ .url }}">{{ partial "icon.html" (dict "ctx" $ "name" .name "title" .title) }}</a>
+          <a href="{{ .url }}">{{ partial "icon.html" (dict "ctx" $ "name" .name "title" .title) }}</a>
         {{ end }}
       </div>
     </header>
