@@ -5,7 +5,7 @@ title = "Checkpoint: September 9, 2019"
 
 +++
 Hey folks. I figured it might be nice to start writing longer-form update-type posts. I'm tentatively calling them **Checkpoints**. They'll mostly cover whatever's been happening across all fronts for me.
-
+<!--more-->
 \--
 
 I've been pretty busy with work lately. Right now I'm doing some consultancy work as a Scala Developer, which is pretty much my dream job and something I've wanted to do for quite a few years. It's been fun, challenging, tiring and rewarding in varying quantities.
