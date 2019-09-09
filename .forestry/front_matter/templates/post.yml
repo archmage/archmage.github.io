@@ -15,4 +15,5 @@ fields:
     required: false
   label: slug
 pages:
+- content/post/checkpoint-september-9-2019.md
 - content/contact.md
