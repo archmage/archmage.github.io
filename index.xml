@@ -6,10 +6,20 @@
     <description>Recent content on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 11 Sep 2019 13:55:15 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 09:40:19 +1000</lastBuildDate>
     
 	<atom:link href="http://archmage.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://archmage.me/micropost/20190915-094100/</link>
+      <pubDate>Sun, 15 Sep 2019 09:40:19 +1000</pubDate>
+      
+      <guid>http://archmage.me/micropost/20190915-094100/</guid>
+      <description>Helping my mother set up a RSS reader for this site. Interesting things have come to light - apparently you can&amp;rsquo;t just search my site&amp;rsquo;s name - you need to go to [/index.xml] to get the feed.
+This post should fire off notifications for our many apps.</description>
+    </item>
     
     <item>
       <title></title>
