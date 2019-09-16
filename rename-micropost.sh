@@ -1,11 +1,14 @@
-# iteration 1
+# iteration 2
 
 # go to /content/micropost
 # for each file...
-    # cat the file
+    # echo the date text
+
+files="*.md"
+regex="date.+?([0-9].+[0-9])"
 
 cd content/micropost/
-for file in *.md
+for file in $files
 do 
-    echo `basename $file`
+    perl -lne 'print $1 if /date.+?([0-9].+[0-9])/' $file
 done
