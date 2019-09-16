@@ -1,8 +1,8 @@
-# iteration 3
-
 # go to /content/micropost
 # for each file...
-    # echo the formatted date text
+    # read the date text from the file
+    # format the date text to YYYYMMDD-HHMMSS
+    # rename the file to YYYYMMDD-HHMMSS.md
 
 files="*.md"
 regex="date.+?([0-9].+[0-9])"
@@ -34,6 +34,8 @@ convert_date_format() {
   fi
 }
 
+# Execution starts here.
+changeCount=0
 cd content/micropost/
 for file in $files
 do 
@@ -42,5 +44,12 @@ do
 
     # format with the above function
     dateFormatted=$( convert_date_format $dateInputFormat $date $dateOutputFormat )
-    echo $dateFormatted
+    
+    # rename file to dateFormatted.md
+    if [[ "$dateFormatted.md" != $file ]]
+    then
+        mv -v $file "$dateFormatted.md"
+        ((++changeCount))
+    fi 
 done
+echo "Files changed: $changeCount"
