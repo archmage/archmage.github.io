@@ -6,10 +6,21 @@
     <description>Recent content in Microposts on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 16 Sep 2019 17:17:33 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 19:35:01 +1000</lastBuildDate>
     
 	<atom:link href="http://archmage.me/micropost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://archmage.me/micropost/20190917-193501/</link>
+      <pubDate>Tue, 17 Sep 2019 19:35:01 +1000</pubDate>
+      
+      <guid>http://archmage.me/micropost/20190917-193501/</guid>
+      <description>Fixed an issue with my micropost rename script. Now it&amp;rsquo;s working perfectly!
+For readers this means very little - microposts will have slugs (URL permalinks) that match their creation date. For me, it means that I no longer have to provide a name for microposts - they get obliterated and replaced with a filename (and thus, a slug) based on their creation date.
+This means I can name microposts &amp;ldquo;asdflkjasdflkjalkdsf.md&amp;rdquo; and my script will replace my garbage with a proper filename.</description>
+    </item>
     
     <item>
       <title></title>
