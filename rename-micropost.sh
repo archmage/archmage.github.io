@@ -40,7 +40,8 @@ cd content/micropost/
 for file in $files
 do 
     # the cut here is stupid, but it works
-    date=$( perl -lne 'print $1 if /date.+?([0-9].+[0-9])/' $file | cut -c 1-22,24-25 )
+    # older cut: cut -c 1-22,24-25
+    date=$( perl -lne 'print $1 if /date.+?([0-9].+[0-9])/' $file | cut -c 1-19 )
 
     # format with the above function
     dateFormatted=$( convert_date_format $dateInputFormat $date $dateOutputFormat )
