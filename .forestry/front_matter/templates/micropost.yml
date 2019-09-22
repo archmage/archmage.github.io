@@ -7,3 +7,5 @@ fields:
   label: date
   default: now
   hidden: false
+pages:
+- content/micropost/tired-games.md
