@@ -8,4 +8,5 @@ fields:
   default: now
   hidden: false
 pages:
+- content/micropost/tired-apartments-brisbane.md
 - content/micropost/tired-games.md
