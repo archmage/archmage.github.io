@@ -4,4 +4,4 @@ date = "2019-10-09T10:39:46+11:00"
 +++
 What in the heck
 
-![](/uploads/Screen Shot 2019-10-09 at 10.39.21 am.png)
+<img src="/uploads/Screen Shot 2019-10-09 at 10.39.21 am.png" style="max-width: 100%; max-height: 200px; display: block; margin-left: auto; margin-right: auto;">
