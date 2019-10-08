@@ -3,14 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://archmage.me/micropost/20191003-194546/</loc>
-    <lastmod>2019-10-03T19:45:46+10:00</lastmod>
+    <loc>http://archmage.me/</loc>
+    <lastmod>2019-10-08T21:26:48+11:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://archmage.me/</loc>
-    <lastmod>2019-10-03T19:45:46+10:00</lastmod>
+    <loc>http://archmage.me/post/on-achievements/</loc>
+    <lastmod>2019-10-08T21:26:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/post/</loc>
+    <lastmod>2019-10-08T21:26:48+11:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/20191003-194546/</loc>
+    <lastmod>2019-10-03T19:45:46+10:00</lastmod>
   </url>
   
   <url>
@@ -77,12 +88,6 @@
   <url>
     <loc>http://archmage.me/post/checkpoint-september-9-2019/</loc>
     <lastmod>2019-09-09T12:01:36+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/post/</loc>
-    <lastmod>2019-09-09T12:01:36+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
