@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://archmage.me/micropost/20191009-103946/</loc>
+    <lastmod>2019-10-09T10:39:46+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://archmage.me/</loc>
-    <lastmod>2019-10-08T21:26:48+11:00</lastmod>
+    <lastmod>2019-10-09T10:39:46+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://archmage.me/micropost/</loc>
+    <lastmod>2019-10-09T10:39:46+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -22,12 +33,6 @@
   <url>
     <loc>http://archmage.me/micropost/20191003-194546/</loc>
     <lastmod>2019-10-03T19:45:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://archmage.me/micropost/</loc>
-    <lastmod>2019-10-03T19:45:46+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
