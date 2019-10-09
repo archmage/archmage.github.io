@@ -6,10 +6,19 @@
     <description>Recent content in Microposts on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 09 Oct 2019 10:39:46 +1100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 16:12:13 +1100</lastBuildDate>
     
 	<atom:link href="http://archmage.me/micropost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://archmage.me/micropost/20191009-161213/</link>
+      <pubDate>Wed, 09 Oct 2019 16:12:13 +1100</pubDate>
+      
+      <guid>http://archmage.me/micropost/20191009-161213/</guid>
+      <description>Today was a mistake.</description>
+    </item>
     
     <item>
       <title></title>
