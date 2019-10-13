@@ -8,6 +8,7 @@ fields:
   default: now
   hidden: false
 pages:
+- content/micropost/glimmering-description.md
 - content/micropost/today-mistake.md
 - content/micropost/uwu.md
 - content/micropost/internet-issues.md
