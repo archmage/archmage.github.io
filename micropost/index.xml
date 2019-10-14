@@ -6,10 +6,20 @@
     <description>Recent content in Microposts on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 13 Oct 2019 23:05:14 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 13:05:25 +1100</lastBuildDate>
     
 	<atom:link href="http://archmage.me/micropost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://archmage.me/micropost/20191014-130525/</link>
+      <pubDate>Mon, 14 Oct 2019 13:05:25 +1100</pubDate>
+      
+      <guid>http://archmage.me/micropost/20191014-130525/</guid>
+      <description>Two things:
+ I made a dumb Scala script that generates words based on arbitrary lists of vowels, consonants, and a chance to pick either. It&amp;rsquo;s here if you want to play with it: https://scastie.scala-lang.org/TEE7FA3uTY25pAoKkLOrsg I found a Markov Chain library for Scala, which sounds like a stupid amount of fun. I&amp;rsquo;ll probably play with it when I have time. https://github.com/runarorama/Malakov  </description>
+    </item>
     
     <item>
       <title></title>
