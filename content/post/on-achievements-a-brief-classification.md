@@ -34,7 +34,7 @@ This is a really cool kind of achievement, because it does a few things:
 
 * It expresses that its unlock criteria is a _story challenge_ (i.e. something related to the plot of the game). This is neat for world-building reasons.
 * It unlocks a variant within the game! Achievements that add content are _super_ rare, usually.
-* The best thing: _it doesn't tell you the story challenge is._ You have to figure that out!!
+* The best thing: _it doesn't tell you what the story challenge is._ You have to figure that out!!
 
 For that reason, I'd classify this as a Skill/Puzzle hybrid - Puzzle in working out what the challenge is by consulting the game's lore, and Skill in executing it. Some of the story challenge achievements in _Sentinels of the Multiverse_ are actually super hard to do, solving aside! Some require quite niche board states, which can be fiddly to set up, but in my experience they're _all_ rewarding. Unlike a lot of achievements, they set up a clear reward, then let you find your own way towards the goal, and your own strategy for reaching it once you've found it.
 
