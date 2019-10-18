@@ -8,8 +8,8 @@ fields:
   default: now
   hidden: false
 pages:
-- content/micropost/shared-thoughts-change.md
 - content/micropost/scala-word-script-markov-chain.md
+- content/micropost/shared-thoughts-change.md
 - content/micropost/glimmering-description.md
 - content/micropost/today-mistake.md
 - content/micropost/uwu.md
