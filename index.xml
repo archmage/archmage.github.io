@@ -28,7 +28,9 @@ Thinking about how a thought&amp;rsquo;s merit shifts based on its audience and 
       
       <guid>http://archmage.me/micropost/20191014-130525/</guid>
       <description>Two things:
- I made a dumb Scala script that generates words based on arbitrary lists of vowels, consonants, and a chance to pick either. It&amp;rsquo;s here if you want to play with it: https://scastie.scala-lang.org/TEE7FA3uTY25pAoKkLOrsg I found a Markov Chain library for Scala, which sounds like a stupid amount of fun. I&amp;rsquo;ll probably play with it when I have time. https://github.com/runarorama/Malakov  </description>
+ I made a dumb Scala script that generates words based on arbitrary lists of vowels, consonants, and a chance to pick either. It&amp;rsquo;s here if you want to play with it:
+https://scastie.scala-lang.org/TEE7FA3uTY25pAoKkLOrsg I found a Markov Chain library for Scala, which sounds like a stupid amount of fun. I&amp;rsquo;ll probably play with it when I have time.
+https://github.com/runarorama/Malakov  </description>
     </item>
     
     <item>
