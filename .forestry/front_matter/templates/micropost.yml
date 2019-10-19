@@ -8,15 +8,15 @@ fields:
   default: now
   hidden: false
 pages:
-- content/micropost/aimless.md
+- content/micropost/uwu.md
 - content/micropost/scala-word-script-markov-chain.md
+- content/micropost/tired-apartments-brisbane.md
+- content/micropost/aimless.md
 - content/micropost/shared-thoughts-change.md
 - content/micropost/glimmering-description.md
 - content/micropost/today-mistake.md
-- content/micropost/uwu.md
 - content/micropost/internet-issues.md
 - content/micropost/yeet-letters.md
 - content/micropost/home-brisbane-tired.md
 - content/micropost/appreciate.md
-- content/micropost/tired-apartments-brisbane.md
 - content/micropost/tired-games.md

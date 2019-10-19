@@ -15,7 +15,7 @@ fields:
     required: false
   label: slug
 pages:
-- content/post/x-and-y.md
 - content/post/on-achievements-a-brief-classification.md
+- content/post/x-and-y.md
 - content/post/checkpoint-september-9-2019.md
 - content/contact.md
