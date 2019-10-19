@@ -1,24 +1,25 @@
 +++
 date = "2019-10-20T00:09:58+11:00"
-draft = true
 slug = "a-dialogue"
 title = "A Dialogue"
 
 +++
 _The following is a chat session that never happened._
-
 <!--more-->
 
-[One] Hey.  
-[One] Why are you living your life like it's over already?
+---
+_Session begin. 2 users present: One, Two_
+
+\[One\] Hey.  
+\[One\] Why are you living your life like it's already over?
 
 `[Two]` idk  
 `[Two]` it just feels like the places i once loved no longer appeal to me  
 `[Two]` like the world's lost a bit of its charm, i guess  
 `[Two]` the fact that i'd even say that scares me a lot
 
-[One] There's tons out there you haven't seen.  
-[One] Do you still want to see it?
+\[One\] There's tons out there you haven't seen.  
+\[One\] Do you still want to see it?
 
 `[Two]` i don't know anymore  
 `[Two]` part of me yearns for the beauty of distant lands  
@@ -28,11 +29,11 @@ _The following is a chat session that never happened._
 `[Two]` my dreams and aspirations are so far removed from reality  
 `[Two]` even the notion of pursuing them feels like a sick joke
 
-[One] You don't know what the future holds for you.  
-[One] There's a chance you'll change, and grow, and attain those things you want now.  
-[One] If you give up now, there isn't a chance.  
-[One] If you hold out, have hope, you're at least on your way.  
-[One] Maybe you won't get there. Maybe you will. Surely it'd be worth it to see what happens?
+\[One\] You don't know what the future holds for you.  
+\[One\] There's a chance you'll change, and grow, and attain those things you want now.  
+\[One\] If you give up now, there isn't a chance.  
+\[One\] If you hold out, have hope, you're at least on your way.  
+\[One\] Maybe you won't get there. Maybe you will. Surely it'd be worth it to see what happens?
 
 `[Two]` maybe  
 `[Two]` i think you reasoning is faulty here  
@@ -40,9 +41,9 @@ _The following is a chat session that never happened._
 `[Two]` one's impossible, but both are extremely unlikely  
 `[Two]` i don't want to live a life that amounts to placing hopes on a one percent chance
 
-[One] You might find other things to enjoy along the way.  
-[One] Even if this particular thing is a one percent, the trick is to have multiple things.  
-[One] Multiple small chances add up. You might find lots of things to care about!
+\[One\] You might find other things to enjoy along the way.  
+\[One\] Even if this particular thing is a one percent, the trick is to have multiple things.  
+\[One\] Multiple small chances add up. You might find lots of things to care about!
 
 `[Two]` i guess  
 `[Two]` i just hate that there's no real option for me to say no to this  
@@ -52,7 +53,7 @@ _The following is a chat session that never happened._
 `[Two]` and i AM tired. living's hard. finding reasons to keep going is hard.  
 `[Two]` i feel like a lot of people don't get that. lucky them
 
-[One] It doesn't have to be hard forever.
+\[One\] It doesn't have to be hard forever.
 
 `[Two]` people have been telling me that for a long time  
 `[Two]` i think friendly advice can miss the mark a lot when it's too focused on what worked for others  
@@ -62,10 +63,10 @@ _The following is a chat session that never happened._
 `[Two]` things that should be incredibly simple  
 `[Two]` like taking care of myself or caring about my long-term survival
 
-[One] Those things can be hard, like you said. Everyone has their struggles.  
-[One] Yours are valid too, just like everyone else's.  
-[One] Maybe yours are just... harder for you. Maybe easier for others, but not for you.  
-[One] And that's okay, right?
+\[One\] Those things can be hard, like you said. Everyone has their struggles.  
+\[One\] Yours are valid too, just like everyone else's.  
+\[One\] Maybe yours are just... harder for you. Maybe easier for others, but not for you.  
+\[One\] And that's okay, right?
 
 `[Two]` it would be a lot more okay if it didn't mean i woke up without a purpose every morning  
 `[Two]` the really stupid thing is that i've told myself i've had goals for years now  
@@ -74,9 +75,9 @@ _The following is a chat session that never happened._
 `[Two]` and the longer i've gone on like this... the less i'm buying the argument  
 `[Two]` it's hard to convince yourself when you know all the ways to shut down your own arguments
 
-[One] It seems like you've made up your mind about all of this.  
-[One] Maybe that's why your "arguments" aren't being received.  
-[One] Maybe your mind's just closed off to the thought of things being any different than how they are.
+\[One\] It seems like you've made up your mind about all of this.  
+\[One\] Maybe that's why your "arguments" aren't being received.  
+\[One\] Maybe your mind's just closed off to the thought of things being any different than how they are.
 
 `[Two]` yeah  
 `[Two]` that's a really apt way of putting it  
@@ -88,18 +89,18 @@ _The following is a chat session that never happened._
 `[Two]` nothing went "wrong", nothing is "broken"... this is just how my story goes  
 `[Two]` apparently
 
-[One] That's true... so far.  
-[One] But you don't know how the story ends yet.  
-[One] You said yourself you're powerless to close the book right now.  
-[One] And it strikes me as a fact about you that will remain true forever.  
-[One] So... what remains? All you can do is keep going, right?
+\[One\] That's true... so far.  
+\[One\] But you don't know how the story ends yet.  
+\[One\] You said yourself you're powerless to close the book right now.  
+\[One\] And it strikes me as a fact about you that will remain true forever.  
+\[One\] So... what remains? All you can do is keep going, right?
 
 `[Two]` ...yeah.  
 `[Two]` as much as i wish i had an out, i don't  
 `[Two]` the only thing left to decide on is how much i care about the rest  
 `[Two]` and how much i run away
 
-[One] It's not really in your nature to run, is it?
+\[One\] It's not really in your nature to run, is it?
 
 `[Two]` um, in some ways it is  
 `[Two]` "discretion is the better part of valour" and all  
@@ -109,7 +110,7 @@ _The following is a chat session that never happened._
 `[Two]` when i stop fighting, and i'm still dissatisfied, that's when i'll run, usually  
 `[Two]` also when i get quiet
 
-[One] Yeah. You talk a lot when you're happy, and you don't when you're sad.
+\[One\] Yeah. You talk a lot when you're happy, and you don't when you're sad.
 
 `[Two]` again, kinda  
 `[Two]` when the sads are energy-powered, there's a lot of words  
@@ -122,21 +123,21 @@ _The following is a chat session that never happened._
 `[Two]` and the top layer is talkative sads  
 `[Two]` but sometimes i see signs of quiet sads beneath that layer
 
-[One] Are you worried about this?
+\[One\] Are you worried about this?
 
 `[Two]` yeah  
 `[Two]` i guess i am  
 `[Two]` but at the same time i have so little energy for caring about whether it changes  
 `[Two]` maybe this is just what i am
 
-[One] I think there's a lot more to you than what's happening to you lately.
+\[One\] I think there's a lot more to you than what's happening to you lately.
 
 `[Two]` my heart says no, but my mind says yes  
 `[Two]` this is just stupid angst  
 `[Two]` but also it might be persistent stupid angst  
 `[Two]` hey, on a different note, do you find that music influences your mood?
 
-[One] Sometimes! It does for you too?
+\[One\] Sometimes! It does for you too?
 
 `[Two]` yeah, it's hella strong for me  
 `[Two]` the right track at the right time can hit me like a car crash  
@@ -145,7 +146,7 @@ _The following is a chat session that never happened._
 `[Two]` i can hijack how i'm feeling sometimes, amplify my emotions to get them all out  
 `[Two]` or stabilise myself if that's what i need at the time
 
-[One] Sounds useful. Also potentially dangerous.
+\[One\] Sounds useful. Also potentially dangerous.
 
 `[Two]` yeah, i've always wondered if maybe the music i happen to listen to at a given time  
 `[Two]` if maybe that music was predestined or something  
@@ -155,14 +156,14 @@ _The following is a chat session that never happened._
 `[Two]` or even at a baser level than that, chooses the music i WANT to listen to  
 `[Two]` wouldn't that be freaky? some weird alien ghost thing just hijacking my emotions
 
-[One] It's interesting to think about, for sure.  
-[One] You wouldn't know, would you?
+\[One\] It's interesting to think about, for sure.  
+\[One\] You wouldn't know, would you?
 
 `[Two]` no  
 `[Two]` which, arguably, means it doesn't matter if there is or isn't a weird music ghost  
 `[Two]` but what if there IS
 
-[One] Haha, I'm sure you'd have plenty of questions for it if it did.
+\[One\] Haha, I'm sure you'd have plenty of questions for it if it did.
 
 `[Two]` shit, yes  
 `[Two]` good point  
@@ -171,8 +172,8 @@ _The following is a chat session that never happened._
 `[Two]` and  
 `[Two]` "what is it you like about these six songs you make me listen to on repeat"
 
-[One] It makes a lot more sense if you rationalise it as an unusual, external entity.  
-[One] But, consider this - what if YOU were the weird space ghost all along?
+\[One\] It makes a lot more sense if you rationalise it as an unusual, external entity.  
+\[One\] But, consider this - what if YOU were the weird space ghost all along?
 
 `[Two]` whaaa??????????  
 `[Two]` shit  
