@@ -162,3 +162,14 @@ input[type=button], input[type=submit], input[type=reset] {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+// .post-content pre {
+//   text-align: right;
+//   border-right: .4em solid rgba(195,165,212,.8);
+//   border-left: 0px;
+// }
+
+code {
+  color: $primary-color;
+  text-align: left;
+}
