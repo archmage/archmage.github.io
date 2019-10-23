@@ -4,7 +4,7 @@ slug = "a-plan-of-attack"
 title = "A Plan of Attack: Games to Play"
 
 +++
-Today I've reached a critical mass of saying "boy, I'd really love to play X... when I have time." I've found myself saying this about enough games over the last week, over and over and over, that it's become clear I need a plan of attack.
+Today I've reached a critical mass of saying "boy, I'd really love to play X... when I have time." <!--more--> I've found myself saying this about enough games over the last week, over and over and over, that it's become clear I need a plan of attack.
 
 So, without further ado, here's what I'm intending to play over the next little while:
 
