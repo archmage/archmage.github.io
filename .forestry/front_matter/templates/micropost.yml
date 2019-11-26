@@ -8,6 +8,7 @@ fields:
   default: now
   hidden: false
 pages:
+- content/micropost/normal.md
 - content/micropost/zelda-2.md
 - content/micropost/good-riddance.md
 - content/micropost/gdscript-no-mapping.md
