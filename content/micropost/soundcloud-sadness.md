@@ -1,6 +1,5 @@
 +++
 date = 2019-12-03T20:52:02Z
-draft = true
 
 +++
 I'm real sad about SoundCloud going kaput. It's had its share of issues, but there was a really cool group of people that brought their wacky, quirky talents and made cool music for all of us to enjoy.
