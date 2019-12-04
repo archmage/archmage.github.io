@@ -25,7 +25,7 @@ The Champion's main thing is _milestones._ The game throws a hard enemy at them 
 
 #### The Professional
 
-The second reading to me is "being able to excel within a game's provided rulesets". This is quite different to something like beating a hard boss, because it's a scope of aptitude that applies _everywhere_, rather than simply by being measured by hard things. Think being able to consistently beat The Binding of Isaac, versus being able to beat a single hard boss once. They require different things - generalised excellence versus a skillset that can overcome a specific challenge.
+The second reading to me is "being able to excel within a game's provided rulesets". This is quite different to something like beating a hard boss, because it's a scope of aptitude that applies _everywhere_, rather than simply being measured by hard things. Think being able to consistently beat The Binding of Isaac, versus being able to beat a single hard boss once. They require different things - generalised excellence versus a skillset that can overcome a specific challenge.
 
 To this end I'm calling this one **The Professional** - someone who is "good" in this way can reliably perform at all levels. They use the right moves for each situation. They know their character's limits and fight exactly as many enemies as they can handle. They see that the only difference between earlygame and lategame success is _scale_ - it's the same principle of nailing execution, just with more moving parts.
 
