@@ -1,6 +1,5 @@
 +++
 date = 2019-12-04T02:12:13Z
-draft = true
 slug = ""
 title = "Git Gud: An Analysis of Game Skill"
 
@@ -68,6 +67,8 @@ What exactly do these archetypes let us do? Similarly to music genres, they let 
 Something to keep in mind is that these are all effectively "meters", in that you can personally rate yourself as a competent Professional but not a particularly savvy Mastermind, for instance. You might occasionally have a penchant for delving into Academic-adjacent endeavours, and when the mood strikes you might be known to spend an evening embracing your inner Heartfelt. Under no circumstances would you ever indulge in Champion-esque pursuits, though. Probably. That shit's _way_ too hard.
 
 A lot of discussions around people having to "git gud" and such are _wildly_ inappropriate useless sentiments that attempt to erase most of the above archetypes. My whole point with this is that Heartfelt and Academic players _are_ good... it's just that the way we discuss "good" has been a conversation dominated by Champions for the most part.
+
+It's also totally okay to only have one of these you identify with! I'm sure there's plenty of players out there that are 100% about that Heartfelt life, and could not care less what endgame content in MMOs looks like, let alone plays like. These people are _just as valid_ as those who relentlessly pursue difficult content. **Nobody is better than anyone else based on _which_ style(s) of "good" they care about.**
 
 If you've made it this far, consider how your _own_ notions of "good at games" relate to these archetypes! There's probably others I've missed here - much like [my previous post on achievement types](/post/on-achievements/), if there's any others you can think of, please let me know via [my Discord server](https://discord.gg/3aNgZ5h) or [my Contact form](/contact/).
 
