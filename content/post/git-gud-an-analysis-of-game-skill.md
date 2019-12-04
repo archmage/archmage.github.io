@@ -69,4 +69,6 @@ Something to keep in mind is that these are all effectively "meters", in that yo
 
 A lot of discussions around people having to "git gud" and such are _wildly_ inappropriate useless sentiments that attempt to erase most of the above archetypes. My whole point with this is that Heartfelt and Academic players _are_ good... it's just that the way we discuss "good" has been a conversation dominated by Champions for the most part.
 
-If you've made it this far, consider how your _own_ notions of "good at games" relate to these archetypes! There's probably others I've missed here - much like my 
+If you've made it this far, consider how your _own_ notions of "good at games" relate to these archetypes! There's probably others I've missed here - much like [my previous post on achievement types](/post/on-achievements/), if there's any others you can think of, please let me know via [my Discord server](https://discord.gg/3aNgZ5h) or [my Contact form](/contact/).
+
+Until next time! o/
