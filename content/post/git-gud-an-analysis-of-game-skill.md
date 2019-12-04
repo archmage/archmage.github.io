@@ -9,7 +9,7 @@ Hey all! A conversational point came up in a chat with a friend about what it me
 
 _(**disclaimer:** pretty much all of my words about games are incredibly subjective, ephemeral things. I'm not an authority on this, and anything I say should be taken with the acknowledgement that it is perception-based and isn't objective.)_
 
-So, I guess the best starting point is this:
+I guess the best starting point is this:
 
 ### What does being "good at games" _actually mean?_
 
