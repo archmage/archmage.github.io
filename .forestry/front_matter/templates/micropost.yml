@@ -8,6 +8,7 @@ fields:
   default: now
   hidden: false
 pages:
+- content/micropost/BLU_SPELLS.md
 - content/micropost/soundcloud-sadness.md
 - content/micropost/normal.md
 - content/micropost/zelda-2.md
