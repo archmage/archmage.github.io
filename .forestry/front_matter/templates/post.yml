@@ -15,9 +15,9 @@ fields:
     required: false
   label: slug
 pages:
-- content/post/git-gud-an-analysis-of-game-skill.md
-- content/post/a-plan-of-attack-games-to-play.md
-- content/post/x-and-y.md
-- content/post/on-achievements-a-brief-classification.md
-- content/post/checkpoint-september-9-2019.md
 - content/contact.md
+- content/post/a-plan-of-attack-games-to-play.md
+- content/post/checkpoint-september-9-2019.md
+- content/post/git-gud-an-analysis-of-game-skill.md
+- content/post/on-achievements-a-brief-classification.md
+- content/post/x-and-y.md
