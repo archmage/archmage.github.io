@@ -1,6 +1,5 @@
 +++
 date = 2019-12-26T10:03:07Z
-draft = true
 
 +++
 "...distant times call for vacant measures..."
