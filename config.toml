@@ -1,4 +1,4 @@
-baseURL = "http://archmage.me/"
+baseURL = "https://archmage.me/"
 languageCode = "en-uk"
 title = "Arcane Endpoint"
 theme = "m10c"
