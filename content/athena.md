@@ -1,5 +1,6 @@
 ---
-title: "Athena"
-type: "page"
+title: "Character Bio: Athena Laflamme"
+type: "noheader"
+slug: "athena"
 ---
-Temp.
+Athena Laflamme is a Viera of the Veera clan.
