@@ -3,14 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://archmage.me/micropost/20200118-084408/</loc>
-    <lastmod>2020-01-18T08:44:08+00:00</lastmod>
+    <loc>https://archmage.me/</loc>
+    <lastmod>2020-01-19T09:02:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://archmage.me/</loc>
-    <lastmod>2020-01-18T08:44:08+00:00</lastmod>
+    <loc>https://archmage.me/post/checkpoint/</loc>
+    <lastmod>2020-01-19T09:02:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archmage.me/post/</loc>
+    <lastmod>2020-01-19T09:02:25+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://archmage.me/micropost/20200118-084408/</loc>
+    <lastmod>2020-01-18T08:44:08+00:00</lastmod>
   </url>
   
   <url>
@@ -52,12 +63,6 @@
   <url>
     <loc>https://archmage.me/post/git-gud-an-analysis-of-game-skill/</loc>
     <lastmod>2019-12-04T02:12:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archmage.me/post/</loc>
-    <lastmod>2019-12-04T02:12:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

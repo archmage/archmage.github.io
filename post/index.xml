@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 04 Dec 2019 02:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 09:02:25 +0000</lastBuildDate>
     
 	<atom:link href="https://archmage.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Checkpoint: January 19, 2020</title>
+      <link>https://archmage.me/post/checkpoint/</link>
+      <pubDate>Sun, 19 Jan 2020 09:02:25 +0000</pubDate>
+      
+      <guid>https://archmage.me/post/checkpoint/</guid>
+      <description>&lt;p&gt;Hey all. Started writing this as a micropost but it was getting long so now it&amp;rsquo;s a&amp;hellip; macropost? No, macro means large and I need a word for &amp;ldquo;not small&amp;rdquo;&amp;hellip; maybe just a &amp;lsquo;post&amp;rsquo;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Git Gud: An Analysis of Game Skill</title>
