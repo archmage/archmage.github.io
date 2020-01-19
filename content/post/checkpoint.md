@@ -1,13 +1,12 @@
 +++
 date = 2020-01-19T09:02:25Z
-draft = true
 slug = ""
 title = "Checkpoint: January 19, 2020"
 
 +++
 Hey all. Started writing this as a micropost but it was getting long so now it's a... macropost? No, macro means large and I need a word for "not small"... maybe just a 'post'.
 <!--more-->
-_(A quick heads-up: this one's really long. There's a really interesting but also long bit about blue magic you can skip if you don't really care. I will try not to blame you.)_
+_(Editor's note from the future: this one's really long. There's a really interesting but also long bit about blue magic you can skip if you don't really care. I will try not to blame you.)_
 
 Anyway.
 
@@ -29,7 +28,7 @@ But I'm still really enjoying watching people who are, and occasionally pulling 
 
 Onto probably the biggest topic I'll ever cover on this site, aside from like, capitalism.
 
-Final Fantasy XIV.
+## Final Fantasy XIV.
 
 FFXIV is a whoooooooole time. I don't even really know where to begin with this one... in that I do, and now I get to go over it in delightfully expositional detail.
 
@@ -49,7 +48,7 @@ Athena's rad. She's aiming to one day become a master of all 29 classes in the g
 
 Weirdly, she's _also_ been a vehicle for my creative writing?? Somehow I started doing roleplaying (RP) stuff again - I used to do it a bit back around 2012, on Tumblr. I've always had a fondness for writing words, and RP in my experience has always been both a challenging and a fruitful endeavour.
 
-This time, rather than taking place over public blogs, most my RPing takes place in-game, using the chat feature, and typically limited to a very small audience (often one other person). It's this really cool dynamic where you have a clearly defined character in your mind, as does your partner, and you sort of go back and forth playing out what your character would say or do in a given situation. If both people are savvy interested wordsmiths like I would consider myself to be, there's actually some super cool stories and things that emerge from just back-and-forth typing.
+This time, rather than taking place over public blogs, most of my RPing takes place in-game, using the chat feature, and typically limited to a very small audience (often one other person). It's this really cool dynamic where you have a clearly defined character in your mind, as does your partner, and you sort of go back and forth playing out what your character would say or do in a given situation. If both people are savvy interested wordsmiths like I would consider myself to be, there's fun and quirky stories that emerge from just back-and-forth typing.
 
 Hardly a new thing, but within the constraints of FFXIV's lore, setting and characters, there's some super cool stuff that happens. I've been to "live performances" where people sync up their dances, execute emotes and cast spells at specific times to do animation cancelling, while _also_ "singing" along in chat. I was _completely_ blown away by the passion, innovation and creativity of the people in this game, and every single day I aspire to bring as much of myself to the table as they do.
 
@@ -75,7 +74,7 @@ Finally... I've learned 78/80 spells, which includes 100% of the 33 new spells. 
 
 \--
 
-Um. I've done a lot of other things in FFXIV, too. The main story's really long, I've made a bunch of progress. I've spent some time decorating my house, making friends, helping newer players and generally just doing _everything_ I possibly can. I joined a "free company" (FFXIV's guilds) that's been lovely and full of mostly-nice people. I've joined hunt "linkshells" (group chats) and frantically teleported around Eorzea trying to arrive at rare enemy spawns in time to join a party and kill them, so as to get a whole bunch of fancy currencies, to spend on rare and important items... ugh. 
+Um. I've done a lot of other things in FFXIV, too. The main story's really long, I've made a bunch of progress. I've spent some time decorating my house, making friends, helping newer players and generally just doing _everything_ I possibly can. I joined a "free company" (FFXIV's guilds) that's been lovely and full of mostly-nice people. I've joined hunt "linkshells" (group chats) and frantically teleported around Eorzea trying to arrive at rare enemy spawns in time to join a party and kill them, so as to get a whole bunch of fancy currencies, to spend on rare and important items... ugh.
 
 The game is _so_ completely engrossing, in a way I've _never_ encountered before (and I've played a LOT of games). I wasn't expecting to like literally everything I tried in this game, but I have!! And it's been awesome!
 
