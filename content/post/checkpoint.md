@@ -1,6 +1,6 @@
 +++
 date = 2020-01-19T09:02:25Z
-slug = ""
+slug = "checkpoint-january-19-2020"
 title = "Checkpoint: January 19, 2020"
 
 +++
