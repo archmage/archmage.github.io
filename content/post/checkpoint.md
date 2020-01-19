@@ -25,6 +25,20 @@ But I'm still really enjoying watching people who are, and occasionally pulling 
 
 \--
 
-Final Fantasy XIV is a whoooooooole time. I don't even really know where to begin with this one... in that I do, and now I get to go over it in delightfully expositional detail.
+Onto probably the biggest topic I'll ever cover on this site, aside from like, capitalism.
 
-I started playing it in early November. I very quickly made some friends, became what you'd probably consider "popular" if I told you friend numbers and general time spend socialising, and _completely_ threw myself at the game. 
+Final Fantasy XIV.
+
+FFXIV is a whoooooooole time. I don't even really know where to begin with this one... in that I do, and now I get to go over it in delightfully expositional detail.
+
+I started playing it in early November. I very quickly made some friends, became what you'd probably consider "popular" if I told you friend numbers and general time spend socialising, and _completely_ threw myself at the game.
+
+Since then... I've spent what Steam tells me is **821 HOURS** playing this game. In about two and a half months. The math on that number is pretty scary.
+
+This, among many, many other things, is what I have to show for it.
+
+<img src="/uploads/1579425163.6288338.png" style="max-width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;">
+
+This is my blessed bunny alter ego, Athena. She is strong and powerful and wise and she's probably one of the best things that's happened to me in a while. Through her, I can live out my ultimate fantasy of Being Good At Most Everything, while also being hot, and well-dressed, and owning a _house_.
+
+Athena's rad. She's aiming to one day become a master of all 29 classes in the game, because, unlike SOME notable MMOs, this one actually lets you do that. For some reason (idk, ask my lizard brain), this is an _incredibly_ appealing thing to me, and thus, given a sufficient quantity of time, food, money and energy, it's going to happen.
