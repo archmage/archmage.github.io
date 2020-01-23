@@ -10,6 +10,32 @@
     {{ $style := resources.Get "css/main.scss" | resources.ExecuteAsTemplate "css/main.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
     <link rel="stylesheet" href="{{ $style.Permalink }}" />
     <link href="https://fonts.googleapis.com/css?family=Livvic|Noto+Serif|Roboto|Source+Sans+Pro&display=swap" rel="stylesheet">
+    <style>
+      body {
+        text-align: left;
+        max-width: 60%;
+        margin-left: 20%;
+      }
+
+      h1 {
+        text-align: center;
+        font-size: 28px;
+      }
+
+      h4 {
+        text-align: center;
+        margin-top: -24px;
+        font-size: 18px;
+        font-style: italic;
+        
+      }
+
+      h3 {
+        margin-top: 28px;
+        margin-bottom: -6px;
+      }
+
+    </style>
 
     {{ template "_internal/google_analytics.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
@@ -17,25 +43,10 @@
 
   </head>
   <body>
-    <main class="app-container">
+    <main>
       {{ block "main" . }}
         {{ .Content }}
       {{ end }}
     </main>
   </body>
 </html>
-
-<!-- @media (min-width: 940px) {
-  .app-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 20rem;
-    min-height: 100vh;
-  }
-
-  .app-container {
-    max-width: 65rem;
-    margin-left: 20rem;
-  }
-} -->
