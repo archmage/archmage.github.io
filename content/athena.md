@@ -8,7 +8,7 @@ slug: athena
 
 #### "Scholarly Seductress"
 
-<img style="float: right; margin: 20px 15px 20px 20px;" src="/uploads/athena headshot.png"  />
+<img style="float: right; margin: 35px 25px 20px 20px;" src="/uploads/athena headshot.png"  />
 
 ### Quick Info
 
@@ -41,6 +41,8 @@ She has a fondness for fine attire, showing a keen interest in others' outfits a
 Athena has a small succubus familiar called Suki, who assists her in her duties and keeps her company. She can often be found resting on Athena's shoulder. She is playful, but shy around new people.
 
 ### Gallery
+
+Coming soon!
 
 ***
 
