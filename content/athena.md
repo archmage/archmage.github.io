@@ -1,13 +1,14 @@
 ---
-title: "Athena Laflamme"
-type: "noheader"
-slug: "athena"
----
+title: Athena Laflamme
+type: noheader
+slug: athena
 
-# ~ Athena Laflamme ~ 
+---
+# \~ Athena Laflamme \~
+
 #### "Scholarly Seductress"
 
-Picture here.
+![](/uploads/athena headshot.png)
 
 ### Quick Info
 
@@ -15,11 +16,11 @@ _race:_ viera (veena)
 _class:_ summoner / blue mage  
 _profession:_ academic - librarian - performer  
 _orientation:_ bisexual - _very_ flirty  
-_availability:_ in an open relationship  
+_availability:_ in an open relationship
 
 ### Bio
 
-**Athena Laflamme** is a Viera woman, of the Veena tribe. A **devoted academic**, she maintains an impressive library of Eorzea's greatest books. While out and adventuring, she employs considerable **arcane power** in order to protect her friends and thwart her foes. 
+**Athena Laflamme** is a Viera woman, of the Veena tribe. A **devoted academic**, she maintains an impressive library of Eorzea's greatest books. While out and adventuring, she employs considerable **arcane power** in order to protect her friends and thwart her foes.
 
 For the most part she spends her days poring over dusty tomes, managing her ever-growing library and pursuing rare volumes to add to her collection. When she's not at home, she can be found practicing her spells, frequenting Eorzea's many social hubs or performing as one of the realm's finest practitioners of blue magic.
 
@@ -35,11 +36,13 @@ Athena possesses a fearsome work ethic, granting her both resourcefulness and fo
 
 She has a fondness for fine attire, showing a keen interest in others' outfits and taking care when assembling her own. She is comfortable within her body, leveraging her appealing figure when both dressing and flirting. She can be quite competitive, rarely backing down from a challenge.
 
+### Trivia
+
+Athena has a small succubus familiar called Suki, who assists her in her duties and keeps her company. She can often be found resting on Athena's shoulder. She is playful, but shy around new people.
+
 ### Gallery
 
-
-
----
+***
 
 ### OOC Stuff
 
