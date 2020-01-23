@@ -8,7 +8,7 @@ slug: athena
 
 #### "Scholarly Seductress"
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/uploads/athena headshot.png" />
+<img style="float: right; margin: 20px 0px 20px 20px;" src="/uploads/athena headshot.png" />
 
 ### Quick Info
 
