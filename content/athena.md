@@ -32,13 +32,13 @@ Outside of combat, she draws upon an intimate familiarity with **literature**, a
 
 ### Personality
 
-Athena possesses a fearsome work ethic, granting her both resourcefulness and focus. Despite her usual collected demeanour, she is a disarmingly kind woman at heart. Benevolent to those in need and fiercely loyal to her friends, she takes helping people very seriously. She enjoys teaching, is a good listener, and loves to hear companions speak passionately of their interests.
+Athena possesses a fearsome **work ethic**, granting her both resourcefulness and focus. Despite her usual collected demeanour, she is a disarmingly **kind** woman at heart. Benevolent to those in need and fiercely loyal to her friends, she takes helping people very seriously. She enjoys teaching, is a good listener, and loves to hear companions speak passionately of their interests.
 
-She has a fondness for fine attire, showing a keen interest in others' outfits and taking care when assembling her own. She is comfortable within her body, leveraging her appealing figure when both dressing and flirting. She can be quite competitive, rarely backing down from a challenge.
+She has a fondness for **fine attire**, showing a keen interest in others' outfits and taking care when assembling her own. She is comfortable within **her body**, leveraging her appealing figure when both dressing and flirting. She can be quite competitive, rarely backing down from a challenge.
 
 ### Trivia
 
-Athena has a small succubus familiar called Suki, who assists her in her duties and keeps her company. She can often be found resting on Athena's shoulder. She is playful, but shy around new people.
+Athena has a small succubus **familiar** called Suki, who assists her in her duties and keeps her company. She can often be found resting on Athena's shoulder. She is playful, but shy around new people.
 
 ### Gallery
 
@@ -50,6 +50,6 @@ Coming soon!
 
 I'm Archmage (she/her), Athena's creator. Thanks for reading!
 
-Out-of-character, Athena's hoping to do everything she possibly can within Eorzea - master all the classes, collect all the collectibles, make a bunch of friends and help as many people as possible. She one day hopes to own a large house, in which to store _even more_ books.
+Out-of-character, Athena's hoping to do everything she possibly can within Eorzea - master all the classes, collect all the collectibles, make a bunch of friends and help as many people as possible. She one day hopes to own a large house, in which to store _even more_ books. She's always looking for new friends, so don't be shy!
 
 My Discord username is Archmage#6969, feel free to add me if you need something.
