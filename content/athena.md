@@ -48,8 +48,6 @@ Athena has a small succubus familiar called Suki, who assists her in her duties 
 <a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="160" /></a>
 <a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="160" /></a>
 <a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="160" /></a>
-<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="160" /></a>
-<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="160" /></a>
 <br/>
 ***
 
