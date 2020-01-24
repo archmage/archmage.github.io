@@ -42,17 +42,7 @@ Athena has a small succubus familiar called Suki, who assists her in her duties 
 
 ### Gallery
 
-<a href="/uploads/athena_bust_sketch.jpg"><img style="margin: 0px 0px 15px 15px;" src="/uploads/athena_bust_sketch.jpg" width="200" height="200" /></a>
-
-<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" height="200" /></a>
-
-<a href="/uploads/Thav Bustier Athena.png"><img style="margin: 0px 0px 15px 15px;" src="/uploads/Thav Bustier Athena.png" width="200" height="200" /></a>
-
-<a href="/uploads/Casting Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/Casting Athena.png" width="200" height="200" /></a>
-
-<a href="/uploads/Starlight Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/Starlight Athena.png" width="200" height="200" /></a>
-
-<br/>
+Coming soon!
 
 ***
 
