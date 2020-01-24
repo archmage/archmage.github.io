@@ -8,7 +8,7 @@ slug: athena
 
 #### "Scholarly Seductress"
 
-<img style="float: right; margin: 35px 25px 20px 20px;" src="/uploads/athena headshot.png"  />
+<img style="float: right; width: 300px; margin-left: 20px; margin-bottom: 20px;" src="/uploads/athena headshot.png"  />
 
 ### Quick Info
 
@@ -42,13 +42,25 @@ Athena has a small succubus **familiar** called Suki, who assists her in her dut
 
 ### Gallery
 
-Coming soon!
+{{< gallerythumb "/uploads/athena_bust_sketch.jpg" >}}
+{{< gallerythumb "/uploads/BLU Athena.png" >}}
+{{< gallerythumb "/uploads/Thav Bustier Athena.png" >}}
+{{< gallerythumb "/uploads/Wistful Athena.png" >}}
+{{< gallerythumb "/uploads/Seductive Athena.png" >}}
+{{< gallerythumb "/uploads/Gunslinger Athena.png" >}}
+{{< gallerythumb "/uploads/Dancing Athena.png" >}}
+{{< gallerythumb "/uploads/Starlight Athena.png" >}}
+{{< gallerythumb "/uploads/Heartfelt Athena.png" >}}
+{{< gallerythumb "/uploads/Fluffielox Athena.png" >}}
+{{< gallerythumb "/uploads/Casting Athena.png" >}}
+{{< gallerythumb "/uploads/Stargazing Athena.png" >}}
+
 
 ***
 
 ### OOC Stuff
 
-I'm Archmage (she/her), Athena's creator. Thanks for reading!
+I'm **Archmage** (she/her), Athena's creator. Thanks for reading!
 
 Out-of-character, Athena's hoping to do everything she possibly can within Eorzea - master all the classes, collect all the collectibles, make a bunch of friends and help as many people as possible. She one day hopes to own a large house, in which to store _even more_ books. She's always looking for new friends, so don't be shy!
 
