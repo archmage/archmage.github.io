@@ -43,7 +43,13 @@ Athena has a small succubus familiar called Suki, who assists her in her duties 
 ### Gallery
 
 <a href="/uploads/BLU Athena.png"><img style="margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
-<a href="/uploads/BLU Athena.png"><img style="float: right; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
+<a href="/uploads/BLU Athena.png"><img style="float: left; margin: 0px 0px 15px 15px;" src="/uploads/BLU Athena.png" width="200" /></a>
 <br/>
 ***
 
