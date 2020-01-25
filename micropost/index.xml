@@ -176,15 +176,6 @@ I&amp;rsquo;ve gotten to the point with social observations that I&amp;rsquo;m a
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20191019-203108/</link>
-      <pubDate>Sat, 19 Oct 2019 20:31:08 +1100</pubDate>
-      
-      <guid>https://archmage.me/micropost/20191019-203108/</guid>
-      <description>Feeling a bit aimless.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/aimless/</link>
       <pubDate>Sat, 19 Oct 2019 20:31:08 +1100</pubDate>
       
@@ -226,15 +217,6 @@ https://github.com/runarorama/Malakov  </description>
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20191013-230514/</link>
-      <pubDate>Sun, 13 Oct 2019 23:05:14 +1100</pubDate>
-      
-      <guid>https://archmage.me/micropost/20191013-230514/</guid>
-      <description>&amp;ldquo;My emotions run higher than usual. There are things I&amp;rsquo;ll never understand, and those things will always be precious, but just now I am closer to them.&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/glimmering-description/</link>
       <pubDate>Sun, 13 Oct 2019 23:05:14 +1100</pubDate>
       
@@ -244,29 +226,11 @@ https://github.com/runarorama/Malakov  </description>
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20191009-161213/</link>
-      <pubDate>Wed, 09 Oct 2019 16:12:13 +1100</pubDate>
-      
-      <guid>https://archmage.me/micropost/20191009-161213/</guid>
-      <description>Today was a mistake.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/today-mistake/</link>
       <pubDate>Wed, 09 Oct 2019 16:12:13 +1100</pubDate>
       
       <guid>https://archmage.me/micropost/today-mistake/</guid>
       <description>Today was a mistake.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20191009-103946/</link>
-      <pubDate>Wed, 09 Oct 2019 10:39:46 +1100</pubDate>
-      
-      <guid>https://archmage.me/micropost/20191009-103946/</guid>
-      <description>What in the heck</description>
     </item>
     
     <item>
@@ -669,31 +633,12 @@ I&amp;rsquo;m hoping to move within walking distance of work, which would help a
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20190901-233254/</link>
-      <pubDate>Sun, 01 Sep 2019 23:32:54 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190901-233254/</guid>
-      <description>I briefly tried to get a cloned version of my site running on my phone. I got as far as to get Hugo serving my site on localhost:1313&amp;hellip; but couldn&amp;rsquo;t access it from Chrome due to Termux being in a container or something.
-Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it locally on my phone, and potentially optimise micropost flow&amp;hellip; though I&amp;rsquo;ve just had an idea to make them more consistently named!</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/termux-didnt-work/</link>
       <pubDate>Sun, 01 Sep 2019 23:32:54 +1000</pubDate>
       
       <guid>https://archmage.me/micropost/termux-didnt-work/</guid>
       <description>I briefly tried to get a cloned version of my site running on my phone. I got as far as to get Hugo serving my site on localhost:1313&amp;hellip; but couldn&amp;rsquo;t access it from Chrome due to Termux being in a container or something.
 Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it locally on my phone, and potentially optimise micropost flow&amp;hellip; though I&amp;rsquo;ve just had an idea to make them more consistently named!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190901-113617/</link>
-      <pubDate>Sun, 01 Sep 2019 11:36:17 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190901-113617/</guid>
-      <description>A reader reported some issues with viewing the site on mobile, which I&amp;rsquo;ve now fixed. If you&amp;rsquo;re reading and you come across any weird issues with the site, please let me know!</description>
     </item>
     
     <item>
@@ -721,24 +666,6 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
       
       <guid>https://archmage.me/micropost/timestamp-testing/</guid>
       <description>Testing timestamp things again.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190901-052830/</link>
-      <pubDate>Sun, 01 Sep 2019 05:28:30 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190901-052830/</guid>
-      <description>Testing micropost things from Forestry. There seems to be no easy way to automatically name a file according to its creation timestamp :(</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190901-152830/</link>
-      <pubDate>Sun, 01 Sep 2019 05:28:30 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190901-152830/</guid>
-      <description>Testing micropost things from Forestry. There seems to be no easy way to automatically name a file according to its creation timestamp :(</description>
     </item>
     
     <item>
@@ -775,16 +702,6 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
       
       <guid>https://archmage.me/micropost/this-is-a-test/</guid>
       <description>This is a test.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190829-132341/</link>
-      <pubDate>Thu, 29 Aug 2019 13:23:41 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190829-132341/</guid>
-      <description>but first&amp;hellip; this will never not be funny, ahahahaha
- </description>
     </item>
     
     <item>
