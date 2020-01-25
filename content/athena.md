@@ -28,7 +28,7 @@ For the most part she spends her days poring over dusty tomes, managing her ever
 
 Athena's main skills are a **sharp mind** and an aptitude for the **arcane**. Wielding powerful summoner magic, she approaches combat with an analytical mind and a wealth of spells at her disposal. In rare cases where she gets to exercise her skills as a blue mage, her battle style varies as much as her blue spells.
 
-Outside of combat, she draws upon an intimate familiarity with **literature**, and a natural sort of **charisma** about her. Whether she's chasing books or chasing tail, Athena never brings anything less than her best.
+Outside of combat, she draws upon an intimate familiarity with **literature**, and a natural sort of **charisma** about her. Whether she's chasing books or chasing _tail_, Athena never brings anything less than her best.
 
 ### Personality
 
@@ -39,6 +39,8 @@ She has a fondness for **fine attire**, showing a keen interest in others' outfi
 ### Trivia
 
 Athena has a small succubus **familiar** called Suki, who assists her in her duties and keeps her company. She can often be found resting on Athena's shoulder. She is playful, but shy around new people.
+
+Athena lives in a small **house** called "The Laflamme Arcanum", in the Goblet on Diabolos. It can be found in ward 6 at plot 57. Its plaque reads: "_Home to a wealth of knowledge contained in a staggering number of tomes, the Laflamme Arcanum aspires to be one of Eorzea's grandest libraries._" She welcomes visitors and patrons alike to her humble book-haven.
 
 ### Gallery
 
@@ -54,7 +56,6 @@ Athena has a small succubus **familiar** called Suki, who assists her in her dut
 {{< gallerythumb "/uploads/Fluffielox Athena.png" >}}
 {{< gallerythumb "/uploads/Casting Athena.png" >}}
 {{< gallerythumb "/uploads/Stargazing Athena.png" >}}
-
 
 ***
 
