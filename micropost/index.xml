@@ -244,16 +244,6 @@ https://github.com/runarorama/Malakov  </description>
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20191003-194546/</link>
-      <pubDate>Thu, 03 Oct 2019 19:45:46 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20191003-194546/</guid>
-      <description>Just got off the phone with my ISP. I came home to significantly slower speeds from my router. The usual debugging rituals didn&amp;rsquo;t help, and the call revealed there&amp;rsquo;s issues on the line.
-I really cannot wait to move out.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/internet-issues/</link>
       <pubDate>Thu, 03 Oct 2019 19:45:46 +1000</pubDate>
       
@@ -289,15 +279,6 @@ I&amp;rsquo;m very tired now though. Tomorrow looks like it&amp;rsquo;ll be chal
       <guid>https://archmage.me/micropost/home-brisbane-tired/</guid>
       <description>On a bus home from the airport. The interstate trip was really good, much needed.
 I&amp;rsquo;m very tired now though. Tomorrow looks like it&amp;rsquo;ll be challenging, energy-wise.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190926-090412/</link>
-      <pubDate>Thu, 26 Sep 2019 09:04:12 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190926-090412/</guid>
-      <description>Live, breathe, exist and appreciate.</description>
     </item>
     
     <item>
@@ -371,16 +352,6 @@ This means I can name microposts &amp;ldquo;asdflkjasdflkjalkdsf.md&amp;rdquo; a
       <description>Fixed an issue with my micropost rename script. Now it&amp;rsquo;s working perfectly!
 For readers this means very little - microposts will have slugs (URL permalinks) that match their creation date. For me, it means that I no longer have to provide a name for microposts - they get obliterated and replaced with a filename (and thus, a slug) based on their creation date.
 This means I can name microposts &amp;ldquo;asdflkjasdflkjalkdsf.md&amp;rdquo; and my script will replace my garbage with a proper filename.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190916-171733/</link>
-      <pubDate>Mon, 16 Sep 2019 17:17:33 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190916-171733/</guid>
-      <description>I wrote a bash script that automatically renames micropost files according to their date of creation. This is an unfortunate necessity to allow microposts to have their URLs reflect their post time, due to Hugo enforcing a filename-to-default-URL behaviour.
-I&amp;rsquo;ve hooked it up to my site deployment pipeline; to test it I&amp;rsquo;m going to set this micropost&amp;rsquo;s filename to some gibberish. If it shows up live on my site with a proper URL, the script will have worked!</description>
     </item>
     
     <item>
@@ -475,17 +446,6 @@ It feels good to be back in the swing of Actively Making Stuff.</description>
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20190908-204649/</link>
-      <pubDate>Sun, 08 Sep 2019 20:46:49 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190908-204649/</guid>
-      <description>Today&amp;rsquo;s been really weird. Quiet. Lonely. Stifling in silence.
-I feel fragile, and uncertain, and afraid. My confidence is low and I feel very much like I&amp;rsquo;m lost.
-There&amp;rsquo;s a lot on my mind, a lot even by my standards, and I fear its weight is slowly crushing me.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/quiet-lonely-stifling/</link>
       <pubDate>Sun, 08 Sep 2019 20:46:49 +1000</pubDate>
       
@@ -493,16 +453,6 @@ There&amp;rsquo;s a lot on my mind, a lot even by my standards, and I fear its w
       <description>Today&amp;rsquo;s been really weird. Quiet. Lonely. Stifling in silence.
 I feel fragile, and uncertain, and afraid. My confidence is low and I feel very much like I&amp;rsquo;m lost.
 There&amp;rsquo;s a lot on my mind, a lot even by my standards, and I fear its weight is slowly crushing me.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190906-092724/</link>
-      <pubDate>Fri, 06 Sep 2019 09:27:24 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190906-092724/</guid>
-      <description>Feeling bad after doing something wrong is step one.
-Doing something about it is step two.</description>
     </item>
     
     <item>
@@ -615,15 +565,6 @@ I&amp;rsquo;m hoping to move within walking distance of work, which would help a
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20190902-083546/</link>
-      <pubDate>Mon, 02 Sep 2019 08:35:46 +1000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190902-083546/</guid>
-      <description>Today feels like a day of calibration. I&amp;rsquo;m finding my mind wandering to good memories. Unexpected, but welcome.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/day-of-calibration/</link>
       <pubDate>Mon, 02 Sep 2019 08:35:46 +1000</pubDate>
       
@@ -688,15 +629,6 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
     
     <item>
       <title></title>
-      <link>https://archmage.me/micropost/20190831-222243/</link>
-      <pubDate>Sat, 31 Aug 2019 22:22:43 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190831-222243/</guid>
-      <description>This is a test.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://archmage.me/micropost/this-is-a-test/</link>
       <pubDate>Sat, 31 Aug 2019 22:22:43 +0000</pubDate>
       
@@ -712,15 +644,6 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
       <guid>https://archmage.me/micropost/mcmangos-bbc/</guid>
       <description>but first&amp;hellip; this will never not be funny, ahahahaha
  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190829-132032/</link>
-      <pubDate>Thu, 29 Aug 2019 13:20:32 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190829-132032/</guid>
-      <description>oh fuck it&amp;rsquo;s late i should sleep</description>
     </item>
     
     <item>
@@ -757,15 +680,6 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
       
       <guid>https://archmage.me/micropost/testing-123/</guid>
       <description>testing testing one two three</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20190829-105229/</link>
-      <pubDate>Thu, 29 Aug 2019 10:52:29 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20190829-105229/</guid>
-      <description>yeet</description>
     </item>
     
     <item>
