@@ -8,4 +8,4 @@ All of my gatherers are at Lv70, and four of my eight crafters are at Lv70. I wa
 
 I also got a cute new top for Athena! There's an album of shots [here](https://imgur.com/a/GKcp7a2), but here's a preview of one of them.
 
-<img src="https://i.imgur.com/IqhlieE.png" style="max-width: 100%; height: auto;"/>
+<img src="https://i.imgur.com/fmy3kLy.png" style="max-width: 100%; height: auto;"/>
