@@ -111,10 +111,12 @@ a {
     color: $darkest-color;
     font-size: 0.9rem;
     font-weight: normal;
+    text-decoration: none;
   }
 
   a {
     font-weight: inherit;
+    text-decoration: underline;
   }
 }
 
