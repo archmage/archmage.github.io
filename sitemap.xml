@@ -1,27 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://archmage.me/micropost/doh_dol_70/</loc>
-    <lastmod>2020-01-27T09:07:25+00:00</lastmod>
+    <loc>https://archmage.me/micropost/dustforce-thoughts/</loc>
+    <lastmod>2020-06-21T15:05:32+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://archmage.me/</loc>
-    <lastmod>2020-01-27T09:07:25+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-06-21T15:05:32+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://archmage.me/micropost/</loc>
-    <lastmod>2020-01-27T09:07:25+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-06-21T15:05:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://archmage.me/micropost/20200125-134146/</loc>
-    <lastmod>2020-01-25T13:41:46+00:00</lastmod>
+    <loc>https://archmage.me/micropost/goodbye_road_to_70/</loc>
+    <lastmod>2020-02-05T06:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archmage.me/micropost/netlify-testing/</loc>
+    <lastmod>2020-01-27T10:31:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archmage.me/micropost/doh_dol_70/</loc>
+    <lastmod>2020-01-27T09:07:25+00:00</lastmod>
   </url>
   
   <url>
@@ -37,7 +45,6 @@
   <url>
     <loc>https://archmage.me/post/</loc>
     <lastmod>2020-01-19T09:02:25+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -346,27 +353,23 @@
   </url>
   
   <url>
-    <loc>https://archmage.me/tags/</loc>
+    <loc>https://archmage.me/tags/dabba/</loc>
     <lastmod>2019-08-29T10:52:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://archmage.me/tags/dabba/</loc>
+    <loc>https://archmage.me/tags/</loc>
     <lastmod>2019-08-29T10:52:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://archmage.me/tags/yabba/</loc>
     <lastmod>2019-08-29T10:52:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://archmage.me/tags/yeet/</loc>
     <lastmod>2019-08-29T10:52:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -389,12 +392,10 @@
   
   <url>
     <loc>https://archmage.me/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://archmage.me/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

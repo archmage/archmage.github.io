@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arcane Endpoint</title>
@@ -6,10 +6,39 @@
     <description>Recent content on Arcane Endpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 27 Jan 2020 09:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 15:05:32 +0000</lastBuildDate>
     
 	<atom:link href="https://archmage.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://archmage.me/micropost/dustforce-thoughts/</link>
+      <pubDate>Sun, 21 Jun 2020 15:05:32 +0000</pubDate>
+      
+      <guid>https://archmage.me/micropost/dustforce-thoughts/</guid>
+      <description>I was in a weird whimsical mood, so I went back and reinstalled Dustforce for the first time in years. I played that game a whole ton, years back, and in that time I made a bunch of levels with the map maker.
+I downloaded them all and went through each one. After having SS-ranked each one, I can&amp;rsquo;t help but dwell on who I was then, who I am now, and who I will be in the distant future.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://archmage.me/micropost/goodbye_road_to_70/</link>
+      <pubDate>Wed, 05 Feb 2020 06:36:08 +0000</pubDate>
+      
+      <guid>https://archmage.me/micropost/goodbye_road_to_70/</guid>
+      <description>My Road to 70 buff in FFXIV just ran out. It lasts for 90 days after you join the game on a preferred server, and adds +100% experience (not doubles; that&amp;rsquo;s an important distinction) to your gains for those 90 days.
+This is what I&amp;rsquo;ve managed to accomplish in that time, strictly in terms of levelling. Not bad, all things considered. I&amp;rsquo;d have hoped to get them all to 70, but I suppose I didn&amp;rsquo;t quite go hard enough at levelling to accomplish that.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://archmage.me/micropost/netlify-testing/</link>
+      <pubDate>Mon, 27 Jan 2020 10:31:39 +0000</pubDate>
+      
+      <guid>https://archmage.me/micropost/netlify-testing/</guid>
+      <description>Doing some fiddly stuff with Netlify to make sure I can get this site building. This micropost will be edited to trigger builds (and hopefully deploys) - stay tuned.</description>
+    </item>
     
     <item>
       <title></title>
@@ -19,17 +48,6 @@
       <guid>https://archmage.me/micropost/doh_dol_70/</guid>
       <description>After having finished Stormblood&amp;rsquo;s storyline, I&amp;rsquo;ve been taking a break from story stuff, and instead working on some quality of life things. Specifically I&amp;rsquo;ve been levelling my gathering and crafting classes!
 All of my gatherers are at Lv70, and four of my eight crafters are at Lv70. I wanted to get all gatherers and crafters to 70 fairly soon, as it&amp;rsquo;ll make a lot of future stuff easier when I have to start repairing or melding with higher-level gear.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://archmage.me/micropost/20200125-134146/</link>
-      <pubDate>Sat, 25 Jan 2020 13:41:46 +0000</pubDate>
-      
-      <guid>https://archmage.me/micropost/20200125-134146/</guid>
-      <description>Just finished Stormblood. What an absolute time.
-I&amp;rsquo;ve enjoyed every single moment of my time with FFXIV&amp;rsquo;s story thus far, even the more mundane parts, and Stormblood was no exception. It took the story in places I was really eager to see it go, it did a bunch of cool world-building and character development, the themes it discussed were handled with maturity and grace&amp;hellip;
-Such a good expansion. Everyone says Shadowbringers is the best thus far; I&amp;rsquo;m expecting it to blow me away just as much as the whole game has already&amp;hellip; once I get to it!</description>
     </item>
     
     <item>
@@ -67,7 +85,7 @@ Such a good expansion. Everyone says Shadowbringers is the best thus far; I&amp;
       <pubDate>Tue, 31 Dec 2019 21:37:07 +0000</pubDate>
       
       <guid>https://archmage.me/micropost/despacito_wonderwall/</guid>
-      <description>&amp;rdquo;&amp;hellip;to kick off the new year, here&amp;rsquo;s &amp;lsquo;Despacito&amp;rsquo;, by Wonderwall!&amp;rdquo;</description>
+      <description>&amp;rdquo;&amp;hellip;to kick off the new year, here&amp;rsquo;s &amp;lsquo;Despacito&amp;rsquo;, by Wonderwall!&amp;quot;</description>
     </item>
     
     <item>
@@ -76,9 +94,9 @@ Such a good expansion. Everyone says Shadowbringers is the best thus far; I&amp;
       <pubDate>Thu, 26 Dec 2019 10:03:07 +0000</pubDate>
       
       <guid>https://archmage.me/micropost/badages/</guid>
-      <description>&amp;rdquo;&amp;hellip;distant times call for vacant measures&amp;hellip;&amp;rdquo;
-&amp;rdquo;&amp;hellip;a void in the hand is worth two in the void&amp;hellip;&amp;rdquo;
-&amp;rdquo;&amp;hellip;a jack of all shades is a master of sun&amp;hellip;&amp;rdquo;
+      <description>&amp;ldquo;&amp;hellip;distant times call for vacant measures&amp;hellip;&amp;rdquo;
+&amp;ldquo;&amp;hellip;a void in the hand is worth two in the void&amp;hellip;&amp;rdquo;
+&amp;ldquo;&amp;hellip;a jack of all shades is a master of sun&amp;hellip;&amp;rdquo;
 Please Like And Subscribe For More Badages</description>
     </item>
     
@@ -257,7 +275,7 @@ https://github.com/runarorama/Malakov  </description>
       <pubDate>Sun, 13 Oct 2019 23:05:14 +1100</pubDate>
       
       <guid>https://archmage.me/micropost/glimmering-description/</guid>
-      <description>&amp;ldquo;My emotions run higher than usual. There are things I&amp;rsquo;ll never understand, and those things will always be precious, but just now I am closer to them.&amp;rdquo;</description>
+      <description>&amp;ldquo;My emotions run higher than usual. There are things I&amp;rsquo;ll never understand, and those things will always be precious, but just now I am closer to them.&amp;quot;</description>
     </item>
     
     <item>
@@ -485,8 +503,8 @@ I&amp;rsquo;m hoping to move within walking distance of work, which would help a
       <pubDate>Tue, 03 Sep 2019 14:42:01 +1000</pubDate>
       
       <guid>https://archmage.me/micropost/quotes-about-me/</guid>
-      <description>&amp;rdquo;&amp;hellip;recently possessing a disposition that inclines one towards noticing the beautiful things in life&amp;hellip;&amp;rdquo;
-&amp;rdquo;&amp;hellip;it has allowed her to recognise that her existence, however fleeting, is a shining light of hope despite everything; her confidence and passion inspiring those brave enough to fly close to her&amp;hellip;&amp;rdquo;</description>
+      <description>&amp;ldquo;&amp;hellip;recently possessing a disposition that inclines one towards noticing the beautiful things in life&amp;hellip;&amp;rdquo;
+&amp;ldquo;&amp;hellip;it has allowed her to recognise that her existence, however fleeting, is a shining light of hope despite everything; her confidence and passion inspiring those brave enough to fly close to her&amp;hellip;&amp;rdquo;</description>
     </item>
     
     <item>
@@ -495,8 +513,7 @@ I&amp;rsquo;m hoping to move within walking distance of work, which would help a
       <pubDate>Tue, 03 Sep 2019 07:42:13 +1000</pubDate>
       
       <guid>https://archmage.me/micropost/depresso-playlist/</guid>
-      <description>Listening to my depresso playlist this morning. In a bit of a weird mood.
- </description>
+      <description>Listening to my depresso playlist this morning. In a bit of a weird mood.</description>
     </item>
     
     <item>
@@ -514,7 +531,7 @@ I&amp;rsquo;m hoping to move within walking distance of work, which would help a
       <pubDate>Mon, 02 Sep 2019 10:34:13 +1000</pubDate>
       
       <guid>https://archmage.me/micropost/moby-in-my-heart/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
     <item>
@@ -605,8 +622,7 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
       <pubDate>Thu, 29 Aug 2019 13:23:41 +0000</pubDate>
       
       <guid>https://archmage.me/micropost/mcmangos-bbc/</guid>
-      <description>but first&amp;hellip; this will never not be funny, ahahahaha
- </description>
+      <description>but first&amp;hellip; this will never not be funny, ahahahaha</description>
     </item>
     
     <item>
@@ -660,8 +676,7 @@ Forestry it is, I guess. It would&amp;rsquo;ve been nice to be able to test it l
       <pubDate>Wed, 28 Aug 2019 02:57:41 +0000</pubDate>
       
       <guid>https://archmage.me/micropost/first-micropost/</guid>
-      <description>Hello world. This is a micropost.
- </description>
+      <description>Hello world. This is a micropost.</description>
     </item>
     
     <item>
@@ -695,8 +710,7 @@ Bio Athena Laflamme is a Viera woman, of the Veena tribe. A devoted academic, sh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://archmage.me/contact/</guid>
-      <description>If you&amp;rsquo;d like to get in touch, use the form below. All fields are required.
-  </description>
+      <description>If you&amp;rsquo;d like to get in touch, use the form below. All fields are required.</description>
     </item>
     
   </channel>

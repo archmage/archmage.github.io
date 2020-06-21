@@ -3,7 +3,7 @@
   <head>
     <title>On Achievements: A Brief Classification ★ Arcane Endpoint</title>
     <meta charset="utf-8" />
-    <meta name="generator" content="Hugo 0.56.1" />
+    <meta name="generator" content="Hugo 0.72.0" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="archmage" />
     <meta name="description" content="" />
@@ -78,13 +78,9 @@
     </header>
     <div class="post-content">
       <p>Today I&rsquo;m going to talk about <em>achievements</em>. Specifically the sort you get when you contort your videogame play experience to the whims of some past developer&rsquo;s sleep-deprived design decisions, and watch as a cute little popup rewards your &ldquo;flexibility&rdquo; with arbitrary gratitude.</p>
-
 <p>Achievements are a weird part of videogame culture. A lot of people don&rsquo;t like them, because here&rsquo;s a mildly hot take: I think <em>a lot of achievements are really bad.</em> I&rsquo;m glad the bad ones exist, because they make the good ones stand out from the crowd, but I think it&rsquo;s very easy to see those poor examples and not look past them, writing the whole lot off as &ldquo;a fad&rdquo; or &ldquo;a dumb modern game thing&rdquo;.</p>
-
 <p>Both of which are a bit true in their own ways, but that&rsquo;s not why I&rsquo;m here.</p>
-
 <p>I wanted to talk about <em>achievement design</em>, from a high level, specifically the six kinds of achievements I&rsquo;ve identified through some deliberation. Without further ado, here are <strong>Kara&rsquo;s Six Types of Achievements</strong>.</p>
-
 <ul>
 <li><strong>Free</strong> achievements are those obtained by playing a game as normal. These have no requirement other than &ldquo;get to this point in the game&rdquo;, and are generally boring.</li>
 <li><strong>Skill</strong> achievements are those that demand some sort of <em>gameplay challenge</em> from the player, beyond that of typical play, like &ldquo;beat X level without dying&rdquo;. What constitutes <em>skill</em> is debatable, and I loosely define this as &ldquo;if you could fail it by playing poorly enough, it&rsquo;s Skill.&rdquo;</li>
@@ -93,57 +89,33 @@
 <li><strong>Puzzle</strong> achievements are some of the more interesting ones, generally. These require you to solve something, whether it be an in-game task (&ldquo;Learn the Keeper&rsquo;s secret, and use it to enter the Vault&rdquo;), or something like an external ARG thing. The more puzzley of Puzzle achievements require crowd collaboration to solve highly obtuse challenges.</li>
 <li><strong>Meta</strong> achievements are a very small category, for achievements that depend on <em>other achievements</em>. Things like &ldquo;get every other achievement&rdquo; fall under this category.</li>
 </ul>
-
 <p>Having these types lets us talk about achievements with a little more <em>finesse</em>, as you&rsquo;ll see.</p>
-
 <p>By pure virtue of being the easiest to implement, <strong>Free</strong> achievements are the most common. On the other hand, since they&rsquo;re super weird and a bit meaningless without the right context, <strong>Meta</strong> achievements are the least common. I&rsquo;m not particularly interested in either as a result. (Though if you happen to know of a really cool atypical Meta achievement, please share it with me!)</p>
-
 <p>Therefore, for the most part, I&rsquo;d argue the achievement types worth talking about are <strong>Skill</strong>, <strong>Detour</strong>, <strong>Endurance</strong> and <strong>Puzzle</strong>, if only because they showcase an interesting range of what achievements <em>can be</em>.</p>
-
 <p>So! With that established, an important disclaimer: some achievements feature traits of <em>multiple types</em>, such as this one from <em>Sentinels of the Multiverse</em>:</p>
-
-<p><img src="/uploads/skinwalker gloomweaver.PNG" alt="" /></p>
-
+<p>![](/uploads/skinwalker gloomweaver.PNG)</p>
 <p>This is a really cool kind of achievement, because it does a few things:</p>
-
 <ul>
 <li>It expresses that its unlock criteria is a <em>story challenge</em> (i.e. something related to the plot of the game). This is neat for world-building reasons.</li>
 <li>It unlocks a variant within the game! Achievements that add content are <em>super</em> rare, usually.</li>
 <li>The best thing: <em>it doesn&rsquo;t tell you what the story challenge is.</em> You have to figure that out!!</li>
 </ul>
-
 <p>For that reason, I&rsquo;d classify this as a Skill/Puzzle hybrid - Puzzle in working out what the challenge is by consulting the game&rsquo;s lore, and Skill in executing it. Some of the story challenge achievements in <em>Sentinels of the Multiverse</em> are actually super hard to do, solving aside! Some require quite niche board states, which can be fiddly to set up, but in my experience they&rsquo;re <em>all</em> rewarding. Unlike a lot of achievements, they set up a clear reward, then let you find your own way towards the goal, and your own strategy for reaching it once you&rsquo;ve found it.</p>
-
 <p>That&rsquo;s a really cool thing that I&rsquo;d like to see done more.</p>
-
 <p>Unfortunately, there&rsquo;s <em>also</em> achievements like this:</p>
-
-<p><img src="/uploads/supreme helper minion.PNG" alt="" /></p>
-
+<p>![](/uploads/supreme helper minion.PNG)</p>
 <p>This is a bad achievement. <em>Terraria</em>&rsquo;s achievement design is otherwise really good, which is one reason why this achievement upsets me as much as it does. The main reason, however, is because <em>it takes an obscenely silly amount of time to complete.</em></p>
-
 <p>Without going into specifics of <em>Terraria</em>, this achievement requires you to do a non-trivial task, with limitations on how frequently it can be repeated, over and over and over and <em>far</em> beyond what any sane player would do even in an extended quantity of play. To that end, it sits firmly in the Endurance category, where it and many other poorly designed achievements sit, thanks to poorly tuned numbers.</p>
-
 <p>(Amazingly there&rsquo;s similar achievements for the same task, at breakpoints for 1, 10, 25 and 50 quests completed. Why they thought to make one for 200 is completely beyond me, much in a similar way to how sane achievement design is clearly beyond whoever made this.)</p>
-
 <p>--</p>
-
 <p>Questionable achievement design aside, there&rsquo;s some interesting ways to apply these six types.</p>
-
 <p><em>Secret boss</em> achievements are usually a hybrid of Detour (find the boss) and Skill (beat the boss), occasionally with a sprinkle of Puzzle (work out <em>how</em> to find the boss).</p>
-
 <p><em>Completion category</em> achievements like &ldquo;Beat the game 100% without dying&rdquo; are a mix of Skill and Meta, I&rsquo;d argue. Not sufficiently Meta enough to stand alone in that category, but also aware enough of other challenges (that presumably have their own Skill-type achievements) to act as a &ldquo;combination&rdquo; achievement.</p>
-
 <p><em>Chance-based</em> achievements are simply Endurance achievements, but where N iterations are instead obfuscated to N <em>attempts</em>. It&rsquo;s the same thing aside from the addition of random deviance.</p>
-
 <p>Sometimes you&rsquo;ll find <em>tourist</em> achievements that ask you to &ldquo;visit all 20 secret areas&rdquo; or similar. (I&rsquo;m looking at <em>you</em>, Half-Life 2.) These are a Detour/Endurance combo, where it&rsquo;s just doing the same Detour-based thing a bunch of times.</p>
-
 <p>Large-scale Skill challenges like &ldquo;beat the game on Hard with all characters&rdquo; becomes a Skill/Endurance pair. This applies to anything, really - I&rsquo;m sure a Puzzle/Endurance achievement exists somewhere along the same vein.</p>
-
 <p>Whether you consider games like <em>Dark Souls</em>&rsquo; boss-based achievements as Skill, Puzzle, Endurance or some mixture is <em>entirely</em> up to you. I&rsquo;m not even going to weigh in on that one.</p>
-
 <p>Other games, like <em>Cultist Simulator</em>, have most of their achievements featuring some quantity of Puzzle, by the game&rsquo;s nature. These are <em>fun.</em></p>
-
 <p>That&rsquo;s all I can think of to say right now. I&rsquo;ll likely talk more about achievement design in the future - I imagine talking about things like &ldquo;how they can enhance games&rdquo; and &ldquo;how to avoid making bad ones&rdquo; might make good topics.</p>
     </div>
     <div class="post-footer">
