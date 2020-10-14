@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arcane Endpoint</title>
+    <link>https://archmage.me/post/</link>
+    <description>Recent content in Posts on Arcane Endpoint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 19 Jan 2020 09:02:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://archmage.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Checkpoint: January 19, 2020</title>
+      <link>https://archmage.me/post/checkpoint-january-19-2020/</link>
+      <pubDate>Sun, 19 Jan 2020 09:02:25 +0000</pubDate>
+      
+      <guid>https://archmage.me/post/checkpoint-january-19-2020/</guid>
+      <description>&lt;p&gt;Hey all. Started writing this as a micropost but it was getting long so now it&amp;rsquo;s a&amp;hellip; macropost? No, macro means large and I need a word for &amp;ldquo;not small&amp;rdquo;&amp;hellip; maybe just a &amp;lsquo;post&amp;rsquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git Gud: An Analysis of Game Skill</title>
+      <link>https://archmage.me/post/git-gud-an-analysis-of-game-skill/</link>
+      <pubDate>Wed, 04 Dec 2019 02:12:13 +0000</pubDate>
+      
+      <guid>https://archmage.me/post/git-gud-an-analysis-of-game-skill/</guid>
+      <description>&lt;p&gt;Hey all! A conversational point came up in a chat with a friend about what it means to be &amp;ldquo;good at games&amp;rdquo;. This is a topic that&amp;rsquo;s close to home with me, as someone who spends hours upon hours playing a wide range of games, so I felt it&amp;rsquo;d be worth discussing in more of a deep fashion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Plan of Attack: Games to Play</title>
+      <link>https://archmage.me/post/a-plan-of-attack/</link>
+      <pubDate>Tue, 22 Oct 2019 12:06:00 +1100</pubDate>
+      
+      <guid>https://archmage.me/post/a-plan-of-attack/</guid>
+      <description>&lt;p&gt;Today I&amp;rsquo;ve reached a critical mass of saying &amp;ldquo;boy, I&amp;rsquo;d really love to play X&amp;hellip; when I have time.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Dialogue</title>
+      <link>https://archmage.me/post/a-dialogue/</link>
+      <pubDate>Sun, 20 Oct 2019 00:09:58 +1100</pubDate>
+      
+      <guid>https://archmage.me/post/a-dialogue/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The following is a chat session that never happened.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>On Achievements: A Brief Classification</title>
+      <link>https://archmage.me/post/on-achievements/</link>
+      <pubDate>Tue, 08 Oct 2019 21:26:48 +1100</pubDate>
+      
+      <guid>https://archmage.me/post/on-achievements/</guid>
+      <description>&lt;p&gt;Today I&amp;rsquo;m going to talk about &lt;em&gt;achievements&lt;/em&gt;. Specifically the sort you get when you contort your videogame play experience to the whims of some past developer&amp;rsquo;s sleep-deprived design decisions, and watch as a cute little popup rewards your &amp;ldquo;flexibility&amp;rdquo; with arbitrary gratitude.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Checkpoint: September 9, 2019</title>
+      <link>https://archmage.me/post/checkpoint-september-9-2019/</link>
+      <pubDate>Mon, 09 Sep 2019 12:01:36 +1000</pubDate>
+      
+      <guid>https://archmage.me/post/checkpoint-september-9-2019/</guid>
+      <description>&lt;p&gt;Hey folks. I figured it might be nice to start writing longer-form update-type posts. I&amp;rsquo;m tentatively calling them &lt;strong&gt;Checkpoints&lt;/strong&gt;. They&amp;rsquo;ll mostly cover whatever&amp;rsquo;s been happening across all fronts for me.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Game Spotlight: Lair of the Spider Queen</title>
+      <link>https://archmage.me/post/lairofthespiderqueen/</link>
+      <pubDate>Sun, 01 Sep 2019 04:44:53 +0000</pubDate>
+      
+      <guid>https://archmage.me/post/lairofthespiderqueen/</guid>
+      <description>&lt;p&gt;Today I came across a charming little roguelike on &lt;a href=&#34;https://www.reddit.com/r/roguelikedev&#34;&gt;r/roguelikedev&lt;/a&gt; called &lt;a href=&#34;https://www.reddit.com/r/roguelikedev/comments/cy0z59/lair_of_the_spider_queen/&#34;&gt;&amp;ldquo;Lair of the Spider Queen&amp;rdquo;&lt;/a&gt;. It&amp;rsquo;s a short, simple roguelike where you play as a spider queen and face a horde of goblins.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://archmage.me/post/helloworld/</link>
+      <pubDate>Sun, 01 Sep 2019 00:31:15 +0000</pubDate>
+      
+      <guid>https://archmage.me/post/helloworld/</guid>
+      <description>&lt;p&gt;Hello world! This is my first blog post on this fresh new &lt;em&gt;instance&lt;/em&gt; of my site, &lt;a href=&#34;https://archmage.me/&#34;&gt;Arcane Endpoint&lt;/a&gt;. I started writing this because I needed to see how blog posts look, but while I&amp;rsquo;m here, I may as well talk about some interesting things!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

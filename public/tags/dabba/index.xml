@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dabba on Arcane Endpoint</title>
+    <link>https://archmage.me/tags/dabba/</link>
+    <description>Recent content in dabba on Arcane Endpoint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 29 Aug 2019 10:52:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://archmage.me/tags/dabba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://archmage.me/micropost/yeet-with-tags/</link>
+      <pubDate>Thu, 29 Aug 2019 10:52:29 +0000</pubDate>
+      
+      <guid>https://archmage.me/micropost/yeet-with-tags/</guid>
+      <description>yeet</description>
+    </item>
+    
+  </channel>
+</rss>
